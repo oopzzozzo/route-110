@@ -13,7 +13,13 @@
 [[main]]
   name = "貼文"
   pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "選集"
+  pageRef = "series"
   weight = 10
+       
 
 #[[main]]
 #  name = "Parent"
