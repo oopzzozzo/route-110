@@ -1,5 +1,6 @@
 disabled = false
 languageCode = "zh-tw"
+hasCJKLanguage = true
 languageName = "中文"
 weight = 1
 title = "１１０號道路"
