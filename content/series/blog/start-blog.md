@@ -24,14 +24,16 @@ draft = false
 
 ## 步驟
 ### 安裝 hugo 和 blowfish
+#### 安裝 hugo 並開一個部落格
 ```
-snap install hugo
+snap install hugo # apt 上的版本太舊
 hugo new site route-110
+cd route-110
 git init
-echo 'public/' >> .gitignore # public 是生出來的 html
+echo 'public/' >> .gitignore # hugo 生出來的 html 會被放在 public/
 ```
-`apt` 上的版本太舊了，無法做下一步。
 
+#### 套用現成的 blowfish 主題模版
 ```bash
 cd route-110
 hugo mod init github.com/oopzzozzo/route-110
@@ -41,7 +43,7 @@ hugo mod init github.com/oopzzozzo/route-110
 disable = false
 path = "github.com/nunocoracao/blowfish/v2"
 ```
-我原本是用 git submodule，但是我開 git worktree 的話，branch 出去的那棵 tree 在 debug 時讀不到 submodule 的內容。沒辦法同時在多個 branch 上 debug 不太方便，所以改用 hugo mod。
+我原本是用 git submodule 載入模版，但是我開 git worktree 的話，branch 出去的那棵 tree 在 debug 時讀不到 submodule 的內容。沒辦法同時在多個 branch 上 debug 不太方便，所以改用 hugo mod。
 
 ### 設定 blowfish
 ```
