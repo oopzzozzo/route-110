@@ -25,7 +25,24 @@ Namecheap 付款可以用 Paypal、信用卡或是 Bitpay。我用 Paypal 比較
 本來部落格的網址是 https://mynas.synology.me/route-110/xxx。可以在 WebServer（synology 上的是 nginx，）上直接加一條規則，讓 `route110.blog` 打來的請求直接對應到 `route-110/` 資料夾。避免 `https://route110.blog/route-110/` 這種冗長的 url。
 
 ## 取得 SSL 憑證
-Synology 控制台可以直接設定 Let's Encrypt，但是我試了幾次都失敗。目前猜測是因為我一直改動 DNS 紀錄，可能要等一段時間，各種 TTL 過去，Let's Encrypt 才能正常連上。
+Synology 控制台可以直接設定 Let's Encrypt，但是我試了幾次都失敗。起初猜測是因為我一直改動 DNS 紀錄，可能要等一段時間，各種 TTL 過去，Let's Encrypt 才能正常連上。後來發現好像另有原因。
+
+### 各種 Let's Encrypt 失敗
+要通過 Let's Encrypt 認證，就是要向 Let's Encrypt 證明這個域名是你的。
+證明的方式大致為：
+- 告訴 Let's Encrypt 你的 email 和想要認證的域名。
+- Let's Encrypt 會生一串密鑰給你。
+- 把這串密鑰放在網站上給 Let's Encrypt 看。
+- Let's Encrypt 抓到這串密鑰後，相信網域是你的，就會給你 SSL 憑證檔。
+
+其中放密鑰的方式有兩種
+- http-01 challenge：開 http（連接埠 80）公開 my-domain/.well-known/acme-challenge/<my-token> 連結。
+- dns-01 challenge：設定 _acme-challenge.my-domain 的 TXT 紀錄。
+
+理論上 Synology 的 GUI 點一點，就可以通過 http-01 challenge，憑證到期前還會自動更新。（Nginx 預設只要 [match 到 /acme-challege/ 就會強迫轉到特定資料](https://cleanshadow.blogspot.com/2017/01/ssl.html)）。但是我一直失敗，letsdebug.net 總說我 timeout，各種設路由關防火牆無果。只好試著用 dns-01 challenge。
+
+照理來說 [acme.sh](https://github.com/acmesh-official/acme.sh) 可以自動更新 DNS 紀錄，完成 dns-01 challenge。然而我用 Namecheap，API 更新 TXT 紀錄的[功能有限制](https://www.namecheap.com/support/knowledgebase/article.aspx/9739/63/api-faq/#c)。所以也用不了。
+最後只能用 certbot 手動通過 dns-01 challenge，拿到憑證後上傳到 Synology。三個月後又要再做一次。
 
 ## 其他方式
 其實可以直接把東西放在 github.io 上，然後 DNS 直接CNAME 指到 github.io。這樣既方便又不用電費。缺點是不能自己監控流量，未來想加入複雜的資料庫功能也不容易。
