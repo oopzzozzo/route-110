@@ -2,7 +2,6 @@
 title = '從批兔搬文章'
 date = 2025-03-15T23:16:01+08:00
 series = ['架設部落格']
-draft = true
 cover.image = "moving-easter-eggs.png"
 cover.alt = "moving easter eggs"
 cover.relative = true
