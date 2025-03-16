@@ -1,0 +1,11 @@
+{{ $colors := slice 
+  "text-neutral-800 border-neutral-800 dark:text-neutral dark:border-neutral"
+  "text-neutral-800 border-neutral-800 dark:text-neutral dark:border-neutral"
+  "text-primary border-primary-800 dark:text-primary dark:border-primary"
+  "text-primary border-primary-800 dark:text-primary dark:border-primary"
+}}
+
+{{/* Create a hash of the text to get a consistent color */}}
+{{ $hash := md5 . }}
+{{ $colorIndex := mod (int (printf "0x%s" (substr $hash 0 8))) (len $colors) }}
+{{ index $colors $colorIndex }}

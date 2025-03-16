@@ -1,0 +1,19 @@
+{{/*
+  {{ if reflect.IsMap .}}
+<div class="{{ partial "color-hash.html" .key }}">
+  {{ .text }}
+</div>
+{{ end }}
+*/}}
+  
+<span class="flex" style="cursor: pointer;">
+  {{ if reflect.IsMap .}}
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal {{ partial "color-hash.html" .key }}">
+    {{ .text }}
+  </span>
+  {{ else }}
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    {{ . }}
+  </span>
+  {{ end }}
+</span>

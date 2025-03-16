@@ -10,7 +10,7 @@ defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
 enableSearch = true
-enableCodeCopy = false
+enableCodeCopy = true
 
 replyByEmail = false
 
@@ -46,8 +46,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts/"
+  showMoreLink = true
+  # showMoreLinkDest = "posts"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
