@@ -10,32 +10,49 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
+#[[main]]
+#  name = "貼文"
+#  pageRef = "posts"
+#  weight = 15
+#
+#[[main]]
+#  name = "選集"
+#  pageRef = "series"
+#  weight = 10
+
+[[main]]
+  name = "文章"
+  weight = 10
+  pageRef = ""
+
 [[main]]
   name = "貼文"
+  parent = "文章"
   pageRef = "posts"
-  weight = 15
+  weight = 10
 
 [[main]]
   name = "選集"
+  parent = "文章"
   pageRef = "series"
-  weight = 10
-       
+  weight = 15
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+  name = "分類"
+  pageRef = "categories"
+  weight = 20
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "類別"
+  parent = "分類"
+  pageRef = "categories"
+  weight = 20
 
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "標籤"
+  parent = "分類"
+  pageRef = "tags"
+  weight = 25
 
 #[[subnavigation]]
 #  name = "An interesting topic"
@@ -48,15 +65,6 @@
 #  pageRef = "categories/awesome"
 #  weight = 20
 
-[[main]]
-  name = "分類"
-  pageRef = "categories"
-  weight = 20
-
-[[main]]
-  name = "標籤"
-  pageRef = "tags"
-  weight = 30
 
 
 # -- Footer Menu --

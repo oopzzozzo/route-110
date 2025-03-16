@@ -19,3 +19,9 @@ title = "１１０號道路"
   name = "拍拍"
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"
