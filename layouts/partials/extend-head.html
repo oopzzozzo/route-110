@@ -1,0 +1,2 @@
+{{ $zenModeJS := resources.Get "js/default-zen-mode.js" | resources.Fingerprint }}
+<script src="{{ $zenModeJS.Permalink }}" integrity="{{ $zenModeJS.Data.Integrity }}"></script>
