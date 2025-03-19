@@ -17,8 +17,8 @@ tags = ['批兔']
 猶他好像蜜蜂特多？今天去活動中心四樓，陽台居然就放兩個大蜂箱，不知道是幹嘛的。<br>
 山上蜜蜂真的很多，至少3個品種，好像很多人會怕，還好我不會，看得很開心。<br>
 比較特別的是，某種花叢中，蜜蜂採到的粉都是白色的。這樣會有白色的蜜嗎？<br>
-[https://photos.app.goo.gl/DeJDEx7cQW1VeVCv8](https://photos.app.goo.gl/DeJDEx7cQW1VeVCv8)<br>
-[https://photos.app.goo.gl/jM7yRzdjDFLaqEpr8](https://photos.app.goo.gl/jM7yRzdjDFLaqEpr8)<br>
+[https://[redacted]](https://[redacted])<br>
+[https://[redacted]](https://[redacted])<br>
 ### 蝴蝶
 我之前問這邊的同學這裡有沒有蜂鳥，他說「有，還有蝴蝶」。<br>
 我還沒看到蜂鳥，但蝴蝶半天下來只注意到兩隻，數量 << 蜜蜂。<br>

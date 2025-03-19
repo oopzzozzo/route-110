@@ -10,7 +10,7 @@ tags = ['批兔']
 ### 市區 
 洛杉磯是個充滿高樓的城市，流浪漢幾乎都使用帳篷，路上帳篷很多。<br>
 最有趣的是 Aangels Flight，花 0.5 鎂車資，它就幫你上坡一個街區的距離。<br>
-https://photos.app.goo.gl/QuR4AYqZ5QStvYAL8<br>
+https://[redacted]<br>
 <br>
 ### 青旅 
 我們本來要住市區附近，後來覺得太可怕，改住好萊塢。<br>

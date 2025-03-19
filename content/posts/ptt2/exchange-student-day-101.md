@@ -44,4 +44,4 @@ A 從回宿舍到現在，除了補錄聲音外，<br>
 ※ 發信站: 批踢踢兔(ptt2.cc), 來自: xxx.xxx.xxx.xxx (美國)<br>
 Re: 大概就是些台灣人小孩在吃到飽火鍋店會做的事情，例如把冰淇淋加牛奶和汽水搖晃。<br>
 Re: 你以為有拉麵吃很值得炫燿嗎？其實我比較想念炸豬排。<br>
-Re: 查不太到，只知道是MIT。 https://photos.app.goo.gl/NLV4qScuYERPhr748<br>
+Re: 查不太到，只知道是MIT。 https://[redacted]<br>
