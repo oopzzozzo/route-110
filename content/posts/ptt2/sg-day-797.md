@@ -3,6 +3,7 @@ title = 'SG Day 797 衛塞節'
 date = 2023-06-02T23:28:01+08:00
 draft = false
 lastmod = 2023-06-02T23:28:01+08:00
+series = ["新加坡日常"]
 categories = ['日常']
 tags = ['批兔']
 +++

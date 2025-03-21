@@ -3,6 +3,7 @@ title = 'SG Day 1282 捷運停駛'
 date = 2024-09-28T15:17:47+08:00
 draft = false
 lastmod = 2024-09-28T15:17:47+08:00
+series = ["新加坡日常"]
 categories = ['日常']
 tags = ['批兔']
 +++

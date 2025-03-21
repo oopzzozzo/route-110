@@ -3,6 +3,7 @@ title = 'SG Day 649 肯德基'
 date = 2022-12-26T15:46:24+08:00
 draft = false
 lastmod = 2022-12-26T15:46:24+08:00
+series = ["新加坡日常"]
 categories = ['日常']
 tags = ['批兔']
 +++

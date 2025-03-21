@@ -4,7 +4,7 @@ date = 2023-09-16T16:44:09+08:00
 draft = false
 lastmod = 2023-09-16T16:44:09+08:00
 categories = ['閒聊']
-tags = ['批兔']
+tags = ['批兔','寫作']
 +++
 ```
 tautology = lambda _: true<br>

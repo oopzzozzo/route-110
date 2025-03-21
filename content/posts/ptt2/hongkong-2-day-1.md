@@ -3,6 +3,7 @@ title = '香港 Day 1'
 date = 2025-01-23T13:34:36+08:00
 draft = false
 lastmod = 2025-01-23T13:34:36+08:00
+series = ['二訪香港']
 categories = ['遊記']
 tags = ['批兔']
 +++

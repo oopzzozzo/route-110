@@ -3,6 +3,7 @@ title = 'SG Day 746 雙節公車'
 date = 2023-04-11T22:00:17+08:00
 draft = false
 lastmod = 2023-04-11T22:00:17+08:00
+series = ["新加坡日常"]
 categories = ['日常']
 tags = ['批兔']
 +++

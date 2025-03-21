@@ -3,6 +3,7 @@ title = 'SG Day76'
 date = 2021-06-10T23:39:46+08:00
 draft = false
 lastmod = 2021-06-10T23:39:46+08:00
+series = ["新加坡日常"]
 categories = ['日常']
 tags = ['批兔']
 +++

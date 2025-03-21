@@ -3,7 +3,7 @@ title = '良葛格'
 date = 2022-11-16T21:36:38+08:00
 draft = false
 lastmod = 2022-11-16T21:36:38+08:00
-categories = ['討論']
+categories = ['人物']
 tags = ['批兔']
 +++
 > 作者: chicagoparis (FuckYouDPP) 看板: Soft_Job<br>

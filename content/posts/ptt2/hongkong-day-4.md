@@ -3,6 +3,7 @@ title = '香港 Day 4'
 date = 2024-04-07T15:10:30+08:00
 draft = false
 lastmod = 2024-04-07T15:10:30+08:00
+series = ['香港']
 categories = ['遊記']
 tags = ['批兔']
 +++

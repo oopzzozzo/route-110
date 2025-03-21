@@ -4,7 +4,7 @@ date = 2024-03-12T01:17:28+08:00
 draft = false
 lastmod = 2024-03-12T01:17:28+08:00
 categories = ['閒聊']
-tags = ['批兔']
+tags = ['批兔','星國']
 +++
 公司同事 D 調來我們 team<br>
  D：「Nicholas 你是印尼人嗎？」<br>

@@ -3,6 +3,7 @@ title = 'SG Day61 假日'
 date = 2021-05-28T02:36:31+08:00
 draft = false
 lastmod = 2021-05-28T02:36:31+08:00
+series = ["新加坡日常"]
 categories = ['日常']
 tags = ['批兔']
 +++

@@ -3,6 +3,7 @@ title = '龍目島 Day 2-4'
 date = 2022-07-09T19:54:04+08:00
 draft = false
 lastmod = 2022-07-09T19:54:04+08:00
+series = ['龍目島']
 categories = ['遊記']
 tags = ['批兔']
 +++

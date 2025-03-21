@@ -5,7 +5,7 @@ draft = false
 lastmod = 2019-10-27T23:46:01+08:00
 series = ['交換學生']
 categories = ['活動']
-tags = ['批兔']
+tags = ['批兔','比賽']
 +++
 去 BYU 打 ACM 區賽。V 載一車四人去，車上聊蠻多的。<br>
 <br>

@@ -3,6 +3,7 @@ title = '電梯 (3)'
 date = 2021-02-27T00:30:24+08:00
 draft = false
 lastmod = 2021-02-27T00:30:24+08:00
+series = ['辦公大樓電梯']
 categories = ['日常']
 tags = ['批兔']
 +++

@@ -4,7 +4,7 @@ date = 2019-10-29T03:00:29+08:00
 draft = false
 lastmod = 2019-10-29T03:00:29+08:00
 categories = ['活動']
-tags = ['批兔','交換']
+tags = ['批兔','交換','比賽']
 +++
 因故去打 ACM Rocky Moutain 區。跟台灣站是完全不同概念。<br>
 https://rmc19.kattis.com/standings<br>

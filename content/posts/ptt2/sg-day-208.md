@@ -3,6 +3,7 @@ title = 'SG Day208 香茅咖哩雞'
 date = 2021-10-20T20:49:35+08:00
 draft = false
 lastmod = 2021-10-20T20:49:35+08:00
+series = ["新加坡日常"]
 categories = ['日常']
 tags = ['批兔']
 +++

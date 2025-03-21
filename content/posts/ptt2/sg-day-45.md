@@ -3,6 +3,7 @@ title = 'SG Day45 網路'
 date = 2021-05-08T04:44:25+08:00
 draft = false
 lastmod = 2021-05-08T04:44:25+08:00
+series = ["新加坡日常"]
 categories = ['日常']
 tags = ['批兔']
 +++

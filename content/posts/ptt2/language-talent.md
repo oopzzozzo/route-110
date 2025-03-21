@@ -4,7 +4,7 @@ date = 2023-02-22T08:11:47+08:00
 draft = false
 lastmod = 2023-02-22T08:11:47+08:00
 categories = ['閒聊']
-tags = ['批兔']
+tags = ['批兔','星國']
 +++
 公司有新人，大家在看 LinkedIn。<br>
 「（印尼人）中文 Professional Level 耶～」<br>

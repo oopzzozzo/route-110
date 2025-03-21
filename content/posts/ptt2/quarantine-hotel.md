@@ -3,6 +3,7 @@ title = '防疫旅館'
 date = 2021-10-10T22:58:25+08:00
 draft = false
 lastmod = 2021-10-10T22:58:25+08:00
+series = ['隔離']
 categories = ['日常']
 tags = ['批兔']
 +++

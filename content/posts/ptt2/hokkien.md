@@ -4,7 +4,7 @@ date = 2024-01-29T02:27:03+08:00
 draft = false
 lastmod = 2024-01-29T02:27:03+08:00
 categories = ['閒聊']
-tags = ['批兔']
+tags = ['批兔','星國']
 +++
 午休跟同事 O 和 E 聊天。<br>
 <br>

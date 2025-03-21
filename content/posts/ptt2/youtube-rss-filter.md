@@ -3,8 +3,9 @@ title = 'Re: RSS server'
 date = 2024-10-12T00:53:08+08:00
 draft = false
 lastmod = 2024-10-12T00:53:08+08:00
+series = ['架設 RSS']
 categories = ['筆記']
-tags = ['批兔']
+tags = ['批兔','軟體']
 +++
 ※ 引述《oopzzozzo (π)》之銘言：<br>
 : 差別是我的筆電沒事就不能休眠，然後 SSD 壽命可能會減少。<br>

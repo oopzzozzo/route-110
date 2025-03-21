@@ -3,6 +3,7 @@ title = 'SG Day151 餵食'
 date = 2021-09-05T16:10:32+08:00
 draft = false
 lastmod = 2021-09-05T16:10:32+08:00
+series = ["新加坡日常"]
 categories = ['日常']
 tags = ['批兔']
 +++

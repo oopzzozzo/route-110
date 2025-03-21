@@ -4,7 +4,7 @@ date = 2024-04-28T18:02:30+08:00
 draft = false
 lastmod = 2024-04-28T18:02:30+08:00
 categories = ['閒聊']
-tags = ['批兔']
+tags = ['批兔','星國']
 +++
 我們 team 通常一起出去吃飯。<br>
 <br>

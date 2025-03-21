@@ -3,6 +3,7 @@ title = '隔離 Day 0'
 date = 2021-12-31T02:42:39+08:00
 draft = false
 lastmod = 2021-12-31T02:42:39+08:00
+series = ['隔離']
 categories = ['日常']
 tags = ['批兔']
 +++

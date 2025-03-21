@@ -3,6 +3,7 @@ title = 'SG Day 552 字典序'
 date = 2022-10-17T22:34:41+08:00
 draft = false
 lastmod = 2022-10-17T22:34:41+08:00
+series = ["新加坡日常"]
 categories = ['日常']
 tags = ['批兔']
 +++

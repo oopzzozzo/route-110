@@ -3,6 +3,7 @@ title = '麻六甲 Day 2'
 date = 2024-08-19T19:05:34+08:00
 draft = false
 lastmod = 2024-08-19T19:05:34+08:00
+series = ['麻六甲']
 categories = ['遊記']
 tags = ['批兔']
 +++

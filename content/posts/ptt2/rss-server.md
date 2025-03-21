@@ -3,8 +3,9 @@ title = 'RSS server'
 date = 2024-08-22T01:14:28+08:00
 draft = false
 lastmod = 2024-08-22T01:14:28+08:00
+series = ['架設 RSS']
 categories = ['筆記']
-tags = ['批兔']
+tags = ['批兔','軟體']
 +++
 我很久以前想說要在房間架監視器 ＋ NAS。<br>
 可以看我晚上睡得好不好，兼練音樂或運動時可以即時看重播。<br>

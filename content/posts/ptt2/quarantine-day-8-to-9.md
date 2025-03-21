@@ -3,6 +3,7 @@ title = '隔離 Day 8-9'
 date = 2022-01-08T17:18:47+08:00
 draft = false
 lastmod = 2022-01-08T17:18:47+08:00
+series = ['隔離']
 categories = ['日常']
 tags = ['批兔']
 +++
