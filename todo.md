@@ -3,5 +3,4 @@
 - change the ptt post ID to relative links
 - math formula formatting
 - resolve encoding problem
-- screenshot tree/boat drawings
 
