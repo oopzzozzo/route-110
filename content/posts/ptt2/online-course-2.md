@@ -15,7 +15,7 @@ tags = ['批兔']
 1. 請當週授課老師預錄影片。<br>
 2. 放上 NTU COOL 後，限原上課時間觀看。<br>
 3. 學生每週於影片下方留言學號簽到。<br>
-<br>
+
 ### 課程錄影 
 雜音真的很不舒服。我認為全世界都應該看一下 NiceChord 的 demo<br>
 https://www.youtube.com/watch?v=W6WHJuJmZ1w&t=1m ~資芽真的該買麥克風了~<br>
@@ -36,7 +36,7 @@ NTU COOL 團隊真得很可憐，完全就還沒準備好這麼大規模的使�
 http://speech.ee.ntu.edu.tw/DSP2019Spring/Videos/20190220_1/index.html<br>
 而我不懂為什麼做 EverCam 的公司到現在還沒有出來大肆宣傳，<br>
 雖然台灣公司走一個低調穩健很可以理解，但你也低調過頭了吧。<br>
-<br>
+
 ### 簽到 
 留言學號真的很蠢。我猜助教是人工紙本整理。<br>
 該來研究爬蟲了...<br>

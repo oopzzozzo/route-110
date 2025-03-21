@@ -50,7 +50,7 @@ $ sudo apt install scim scim-chewing
 但訊息太混亂，看嘸。<br>
 於是土法煉鋼，當掉前後分別 `cat /proc/<pid>/maps`，再 diff 看有戳到哪些地方。<br>
 抓到嫌疑犯 hime。<br>
-<br>
+
 ### ibus 缺字 
 剛換 ibus 時，因為 UI 能調的較少（小窗窗的字體和大小等）有些不習慣。<br>
 接著無法克服的痛點是我 ibus-table-cangjie3 用起來會缺字。<br>
@@ -88,7 +88,7 @@ $ sudo apt install hime<br>
 ```
 嗯，版本衝突，我不敢再玩下去了。<br>
 復原 `/etc/apt/sources.list`<br>
-<br>
+
 ### \*ibus\* 
 要移除 ibus 相關 package 時，我理所當然打上 `sudo apt remove *ibus*`<br>
 結果刪了一堆重要的東西，然後我居然還無腦 reboot。<br>

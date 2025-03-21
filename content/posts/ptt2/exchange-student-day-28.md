@@ -10,7 +10,7 @@ tags = ['批兔']
 ### typeful racket
 上學期 compiler 課上，好像就有同學報這個東西。（我找不到原文）<br>
 那時沒有要聽懂的意思，至今也不理解這樣做的意義。<br>
-勉強要說的話，就是拿 coding 的容易度去換 testing/compiling 的容易度。<br>
+勉強要說的話，就是拿 coding 的容易度去換 testing/compiling 的容易度。
 ### 程式語言
 上週跟新朋友（非 CS）出去，他問我修什麼課。我報完，他挑了程式語言問。真不會挑。<br>
 我努力解釋說我們在寫 interpreter，還有 compiler 是什麼。他們聽得很暈。<br>
