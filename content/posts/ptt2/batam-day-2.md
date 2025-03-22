@@ -3,7 +3,7 @@ title = '巴淡島 Day 2'
 date = 2023-05-06T21:35:37+08:00
 draft = false
 lastmod = 2023-05-06T21:35:37+08:00
-series = ['巴淡']
+series = ['巴淡島']
 categories = ['遊記']
 tags = ['批兔']
 +++

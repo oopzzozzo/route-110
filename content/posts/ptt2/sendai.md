@@ -3,6 +3,7 @@ title = '仙台'
 date = 2023-10-05T22:20:16+08:00
 draft = false
 lastmod = 2023-10-05T22:20:16+08:00
+series = ['東京仙台']
 categories = ['留念']
 tags = ['批兔']
 +++
