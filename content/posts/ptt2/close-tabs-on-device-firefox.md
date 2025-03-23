@@ -4,7 +4,7 @@ date = 2024-10-13T16:07:02+08:00
 draft = false
 lastmod = 2024-10-13T16:07:02+08:00
 categories = ['心得']
-tags = ['批兔','軟體']
+tags = ['軟體', '批兔']
 +++
 ※ 引述《oopzzozzo (π)》之銘言：<br>
 : 先從我四年來一直很混亂的 firefox bookmark 下手。<br>

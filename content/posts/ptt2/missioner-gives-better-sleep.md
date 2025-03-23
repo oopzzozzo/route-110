@@ -4,7 +4,7 @@ date = 2023-08-12T03:09:56+08:00
 lastmod = 2023-08-12T03:09:56+08:00
 draft = false
 categories = ['日常']
-tags = ['批兔','星國']
+tags = ['星國', '批兔']
 +++
 ※ 引述《oopzzozzo (π)》之銘言：<br>
 : 公車上叔叔：「This is for you.」遞來一折文宣：《新加坡逐家文字布道会》<br>

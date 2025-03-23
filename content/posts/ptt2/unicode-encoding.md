@@ -4,7 +4,7 @@ date = 2022-09-03T12:50:31+08:00
 draft = false
 lastmod = 2022-09-03T12:50:31+08:00
 categories = ['筆記']
-tags = ['批兔','軟體']
+tags = ['軟體', '批兔']
 +++
 繼 #1Y8tyAGE 不懂 cookie 之後，我又發現自己做兩年後端，卻連 unicode 都不懂。<br>
 <br>

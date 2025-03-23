@@ -4,7 +4,7 @@ date = 2019-09-09T11:42:16+08:00
 draft = false
 lastmod = 2019-09-09T11:42:16+08:00
 categories = ['日常']
-tags = ['批兔','美國']
+tags = ['美國', '批兔']
 +++
 在系館上廁所常排隊，覺得神奇，明明就是 Engineering Building 的說。<br>
 <br>

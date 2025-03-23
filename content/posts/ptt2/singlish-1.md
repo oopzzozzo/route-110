@@ -5,7 +5,7 @@ draft = false
 lastmod = 2020-12-18T23:24:12+08:00
 series = ['星語']
 categories = ['筆記']
-tags = ['批兔', '星國']
+tags = ['星國', '批兔']
 +++
 以後可能有用，故分類筆記，實為廢文。<br>
 <br>

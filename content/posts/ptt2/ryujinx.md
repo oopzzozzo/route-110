@@ -4,7 +4,7 @@ date = 2024-10-02T08:59:10+08:00
 draft = false
 lastmod = 2024-10-02T08:59:10+08:00
 categories = ['轉錄']
-tags = ['批兔','軟體']
+tags = ['軟體', '批兔']
 +++
 > rip in peri peri — Today at 2:35 AM<br>
 Yesterday, gdkchan was contacted by Nintendo and offered an agreement to stop working on the project, remove the organization and all related assets he's in control of.<br>

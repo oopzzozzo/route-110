@@ -4,7 +4,7 @@ date = 2022-11-24T22:47:36+08:00
 draft = false
 lastmod = 2022-11-24T22:47:36+08:00
 categories = ['心得']
-tags = ['批兔','科學']
+tags = ['科學', '批兔']
 +++
 ※ 引述《oopzzozzo (π)》之銘言：<br>
 : 殊不知有關 posix timestamp 的定義，大多只提：Seconds since the Epoch.<br>

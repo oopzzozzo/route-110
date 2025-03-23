@@ -5,7 +5,7 @@ draft = false
 lastmod = 2022-01-02T22:15:53+08:00
 series = ['星語']
 categories = ['筆記']
-tags = ['批兔', '星國']
+tags = ['星國', '批兔']
 +++
 不是每個人都會用的語助詞：<br>
 <br>
