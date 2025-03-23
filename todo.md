@@ -1,18 +1,29 @@
+# Thinking
+- what to write in english
+- what posts to sync to what platforms
+
+# Actions
+- check missing posts from ptt2 migration
+    - make sure locations are all tagged
 - change the google photo links into native files
 - change the ptt post ID to relative links
 - math formula formatting
-- resolve encoding problem
 - add tags
     - company animal
-    - language
-    - writing
-    - speaking
+    - language (writing & speaking)
     - science
     - math
     - programming
     - tech
-    - people I talk with
-        - family
-        - colleagues
-        - classmates
-        - elderlys
+    - talking with family
+    - talking with colleagues
+    - talking with classmates
+    - talking with elderly
+- migrate past posts
+    - iron man series
+- check if article navigator is what I want
+- add games section
+    - my js practicing games
+- configure english pages
+- setup vertical chinese
+    - research rtl logic
