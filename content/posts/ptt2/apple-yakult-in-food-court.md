@@ -4,7 +4,7 @@ date = 2022-05-30T00:23:42+08:00
 draft = false
 lastmod = 2022-05-30T00:23:42+08:00
 categories = ['日常']
-tags = ['批兔']
+tags = ['批兔','星國']
 +++
 ※ 引述《oopzzozzo (π)》之銘言：<br>
 : 像是彩色養欒多就別亂試。<br>

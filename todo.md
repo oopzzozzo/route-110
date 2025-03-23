@@ -2,4 +2,12 @@
 - change the ptt post ID to relative links
 - math formula formatting
 - resolve encoding problem
+- add tags
+    - company animal
+    - language
+    - writing
+    - science
+    - math
+    - programming
+    - tech
 
