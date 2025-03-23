@@ -19,6 +19,7 @@
     - talking with colleagues
     - talking with classmates
     - talking with elderly
+- fix rss formating
 - migrate past posts
     - iron man series
 - check if article navigator is what I want
