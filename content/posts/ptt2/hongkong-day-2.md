@@ -5,7 +5,7 @@ draft = false
 lastmod = 2024-03-29T00:00:08+08:00
 series = ['香港']
 categories = ['遊記']
-tags = ['批兔']
+tags = ['批兔','香港']
 +++
 今天就是個無腦跟團的行程。<br>
 早上睡醒後去吃一點心。<br>

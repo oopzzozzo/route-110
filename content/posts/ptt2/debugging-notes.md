@@ -4,7 +4,7 @@ date = 2023-05-15T09:05:58+08:00
 lastmod = 2023-05-15T09:05:58+08:00
 draft = false
 categories = ['請益']
-tags = ['批兔']
+tags = ['批兔', '軟體']
 +++
 ※ 引述《oopzzozzo (π)》之銘言：<br>
 : \*ibus\*
