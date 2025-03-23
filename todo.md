@@ -6,8 +6,13 @@
     - company animal
     - language
     - writing
+    - speaking
     - science
     - math
     - programming
     - tech
-
+    - people I talk with
+        - family
+        - colleagues
+        - classmates
+        - elderlys

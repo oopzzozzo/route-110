@@ -5,7 +5,7 @@ draft = false
 lastmod = 2023-09-16T15:22:50+08:00
 series = ["新加坡日常"]
 categories = ['日常']
-tags = ['批兔']
+tags = ['大馬', '批兔']
 +++
 ※ 引述《oopzzozzo (π)》之銘言：<br>
 : > 一人持證登記直接當選，不進行投票。就沒假放。（發生過）<br>
