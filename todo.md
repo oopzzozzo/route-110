@@ -4,6 +4,10 @@
 
 # Actions
 - check missing posts from ptt2 migration
+    - move
+        - phuket day 1
+        - phuket day 3
+        - ironman impact
     - make sure locations are all tagged
 - change the google photo links into native files
 - change the ptt post ID to relative links
