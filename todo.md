@@ -4,10 +4,6 @@
 
 # Actions
 - check missing posts from ptt2 migration
-    - move
-        - phuket day 1
-        - phuket day 3
-        - ironman impact
     - make sure locations are all tagged
 - change the ptt post ID to relative links
 - math formula formatting
@@ -22,6 +18,7 @@
     - talking with colleagues
     - talking with classmates
     - talking with elderly
+- fix series page to list series based on latest post
 - fix rss formating
 - migrate past posts
     - iron man series
