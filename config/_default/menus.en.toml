@@ -19,6 +19,39 @@
 #  name = "Parent"
 #  weight = 20
 
+[[main]]
+  name = "Posts"
+  weight = 10
+  pageRef = ""
+
+[[main]]
+  name = "Articles"
+  parent = "Posts"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Series"
+  parent = "Posts"
+  pageRef = "series"
+  weight = 15
+
+[[main]]
+  name = "Labels"
+  pageRef = "categories"
+  weight = 20
+
+[[main]]
+  name = "Categories"
+  parent = "Labels"
+  pageRef = "categories"
+  weight = 20
+
+[[main]]
+  name = "Tags"
+  parent = "Labels"
+  pageRef = "tags"
+  weight = 25
 #[[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"

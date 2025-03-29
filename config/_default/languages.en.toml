@@ -1,7 +1,7 @@
 disabled = false
 languageCode = "en"
 languageName = "English"
-weight = 1
+weight = 5
 title = "Route 110"
 
 [params]
@@ -18,3 +18,9 @@ title = "Route 110"
 #   name = "Your name here"
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"

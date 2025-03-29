@@ -25,6 +25,5 @@
 - check if article navigator is what I want
 - add games section
     - my js practicing games
-- configure english pages
 - setup vertical chinese
     - research rtl logic
