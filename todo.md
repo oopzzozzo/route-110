@@ -3,9 +3,10 @@
 - what posts to sync to what platforms
 
 # Actions
+- display image links
 - check missing posts from ptt2 migration
     - make sure locations are all tagged
-- change the ptt post ID to relative links
+- change the ptt post quoting to markdown quoting
 - math formula formatting
 - add tags
     - company animal
