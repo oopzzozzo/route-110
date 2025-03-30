@@ -6,7 +6,7 @@ lastmod = 2022-12-11T20:02:57+08:00
 categories = ['筆記']
 tags = ['軟體', '批兔']
 +++
-#1ZTETdxS 提到我在架部落格。但一直沒進展。<br>
+上個月提到我在[架部落格]({{<ref "catepillar">}})。但一直沒進展。<br>
 對於自己的東西，我情感上還是很難接受先上架再大改版。<br>
 然後因為沒有看到進展，就沒啥動力去做。一念之差造成嚴重的惡性循環…<br>
 在這之前就先把文章放批兔吧。<br>
@@ -24,7 +24,7 @@ tags = ['軟體', '批兔']
 略讀外掛程式的壓縮檔，推（回）想火狐載外掛時應是讀 manifest.json 的設定。<br>
 上網找別人的說法驗證。結果頁面上就莫名出現快捷鍵標注了……趕緊 F12 研究一番。<br>
 <br>
-原來 manifest.json 裡會設定 content_scripts[*].run_at = "document_start"。<br>
+原來 manifest.json 裡會設定 `content_scripts[*].run_at = "document_start"`。<br>
 這樣 js, css 們就會在頁面載入時執行。<br>
 然後我的 navigator 外掛是在頁面載入時生成連結快捷鍵，空白鍵只是顯示而已，<br>
 由於火狐重開不會重載所有頁面，我起初用裝外掛前開的頁面測試當然沒東西顯示。<br>

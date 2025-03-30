@@ -21,7 +21,7 @@ tags = ['星國', '批兔']
 "Mutton soup" (point to mutton meat soup）<br>
 尷尬，我心裡想著「羊肉＋湯」不就是羊肉湯嗎？<br>
 <br>
-然後我手上剛好只有 50 𦁈大鈔，老闆翻了翻：<br>
+然後我手上剛好只有 50 鍟大鈔，老闆翻了翻：<br>
 "Aunti" wave hand to delivery man, hinting me to pay her.<br>
 於是我給了送貨阿姨錢，然後後從老闆手上拿到濕濕的找零。<br>
 雖然我看不太出印度人的年紀，但我還是覺得這個叫阿姨的標準偏低。<br>

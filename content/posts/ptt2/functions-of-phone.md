@@ -6,7 +6,7 @@ draft = false
 categories = ['筆記']
 tags = ['批兔']
 +++
-開始上班一年半，side project 的產量為零。為免淪至 #1VaoB7DJ，總得找些事做做。<br>
+開始上班一年半，side project 的產量為零。為免淪至[只為薪水寫程式的窘境]({{<ref "accepting-delivery-orders">}})，總得找些事做做。<br>
 於是想說我應該來整合一下我的紅外線遙控冷氣、螢幕和多段電燈。<br>
 <br>
 直覺是用手機控制所有東西，甚至已經有現成 app ，只要選各電器的場牌就能用。<br>

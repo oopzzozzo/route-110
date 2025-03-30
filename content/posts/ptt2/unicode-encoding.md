@@ -6,8 +6,7 @@ lastmod = 2022-09-03T12:50:31+08:00
 categories = ['筆記']
 tags = ['軟體', '批兔']
 +++
-繼 #1Y8tyAGE 不懂 cookie 之後，我又發現自己做兩年後端，卻連 unicode 都不懂。<br>
-<br>
+繼[不懂 cookie]({{<ref "cookie">}})之後，我又發現自己做兩年後端，卻連 unicode 都不懂。<br>
 ### Unicode 編碼字元集　
 一部少於 0x110000 個符號的字典，每個符號對應一個小於 0x110000 的整數，<br>
 稱為 code point，中譯碼點或碼位。一般來說數字越小越常用。<br>
@@ -26,7 +25,6 @@ tags = ['軟體', '批兔']
 二進值不小於 2^16 時，先減去 2^16，得一小於 2^20 數 0bYYYYYYYYYYZZZZZZZZZZ<br>
 表示為 110110YY YYYYYYYY 110111ZZ ZZZZZZ。<br>
 可想知，如此編碼乃因碼點 0b110110XXXXXXXXXX 和0b110111XXXXXXXXXX 皆無對應符號。<br>
-<br>
 ### utf8 
 一個 unicode 碼點對應 1-4 個位元組。<br>
 碼點之二進制表示：0bTTTUUVVVVWXXXXYZZZZZZ<br>

@@ -6,7 +6,7 @@ draft = false
 categories = ['討論']
 tags = ['批兔']
 +++
-繼 #1YavuGsA 有超過一個人用浮點數存金額之後。昨天又一奇葩問題被問第二次<br>
+繼[超過一個人用浮點數存金額]({{<ref "apple-yakult-in-food-court">}})之後。昨天又一奇葩問題被問第二次<br>
 <br>
 我們要檢查某 ctime 距今七天沒：<br>
 D ：「要怎麼拿到時區？」<br>

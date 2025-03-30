@@ -12,7 +12,7 @@ tags = ['批兔']
 晚點再把這學期的故事慢慢補起來。~再立 flag 阿!!~<br>
 <br>
 我讀的是經典教科書《Quantum Computation and Quantum Information》，<br>
-也就是我在#1RkE0A7W面交的書（看看我多會拖）。<br>
+也就是我在九個月前[面交]({{<ref "girl-1">}})的書（看看我多會拖）。<br>
 基本上他就是一本教科書，第一章就在講後面各章在說什麼。<br>
 大致上有提到<br>
 qubit的定義、quantum circuits的特性、現有的量子演算法、計算複雜度和資訊理論。<br>
