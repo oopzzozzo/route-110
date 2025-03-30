@@ -19,11 +19,11 @@ N ：「不知道，應該沒有吧？」<br>
 我：「應該沒有吧？」<br>
 真是一群沒常識的工程師…<br>
 <br>
-https://wondernetwork.com/pings/<br>
+[Ping Time 地圖](https://wondernetwork.com/pings/) <br>
 N 說得蠻準的，ID--SG 1Xms, ID--TW 6Xms, ID--JP 8Xms, ID--CN 2XXms。<br>
 即使我平常看 SG--TW 即使 p99 應該也沒有 100ms，比較可能是底層用超過一個 RTT。<br>
 <br>
-https://www.submarinecablemap.com/<br>
+[海底電䌫地圖](https://www.submarinecablemap.com/)<br>
 我覺得台灣的地理教育真的該加強。<br>
 別讓大家跟我一樣，知道長城內 Zhangjiakou 在河北，卻不知台灣有幾個海纜登陸站。<br>
 更別提國家之間的電纜所有權歸屬問題了。<br>

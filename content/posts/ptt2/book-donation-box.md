@@ -16,7 +16,7 @@ tags = ['批兔']
 仔細想想這些書到底會去哪啊？<br>
 到底是哪裡的偏鄉學童在讀微積分阿:3<br>
 <br>
-上網查了一下 http://epb-secondhand.weebly.com/<br>
+上網查了一下[相關資訊](http://epb-secondhand.weebly.com/)<br>
 原來是會到內湖或萬華再生傢俱展示場<br>
 憑學生證每個月可以領三本書耶<br>
 <br>

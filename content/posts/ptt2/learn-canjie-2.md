@@ -13,7 +13,7 @@ tags = ['批兔']
 
 千字文第二回合： 2h29m<br>
 <br>
-感謝 zp （我可以稱呼您為重心大大嗎？）的連結 https://www.cangjieinput.com/<br>
+感謝 zp （我可以稱呼您為重心大大嗎？）的[連結](https://www.cangjieinput.com/)<br>
 現在選取中文就能跳出拆碼，方便多了。<br>
 <br>
 這回省下的應該大部份是查碼的時間，其次才是正確率提升帶來的效益。<br>

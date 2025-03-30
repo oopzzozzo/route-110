@@ -73,8 +73,7 @@ Re: 我認為程式碼就是程式碼，C 程式碼就是 C 程式碼，Java 程
 Re: 兩份不同語言的程式碼可以邏輯等價，但不應每個函數都 C-語意-Java 1-1-1 對應。<br>
 Re: （突然覺得，我要是早生二十年，說不定會成為 assembly 擁護者）<br>
 Re: <br>
-Re: 抽象化的部份，我覺得軟工就是教我抽象化要適可而止，不要做太超過。<br>
-Re: https://www.youtube.com/watch?v=SWU_DgjSwRU&t=8m31 （影片標題騙人，別太認真）<br>
+Re: 抽象化的部份，我覺得軟工就是教我抽象化要適可而止，[不要做太超過](https://www.youtube.com/watch?v=SWU_DgjSwRU&t=8m31)（影片標題騙人，別太認真）<br>
 Re: 應該是因為他們[計程就教 OOP]({{<ref exchange-student-day-99>}})，所以通常偷聽同學們討論任一科功課時都是：<br>
 Re: 「你要有 n_1, n_2 和 n_3；n_1 要記憶化...」（n_k 為名詞）<br>
 Re: 我自認比較常說：「你要 v_1, v_2 跟 v_3； v_1 的結果要記憶化...」（v_k 為動詞）<br>

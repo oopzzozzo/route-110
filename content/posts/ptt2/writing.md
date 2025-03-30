@@ -56,8 +56,7 @@ N ：「中文寫得好的人都不出來教說他們是怎麼寫的…」<br>
 <br>
 ### 節奏 
 中文要寫得像中文真得好難。因為我的思想早已被英文和口語污染過了。<br>
-https://www.youtube.com/watch?v=VMDhdaMkeBU<br>
-至少我感覺我講國語的時候，即使扣到斷詞也沒有字字等時。<br>
+至少我感覺我講國語的時候，即使扣到斷詞也沒有[字字等時](https://www.youtube.com/watch?v=VMDhdaMkeBU)。<br>
 <br>
 --<br>
 ※ 發信站: 批踢踢兔(ptt2.cc), 來自: xxx.xxx.xxx.xxx (新加坡)<br>

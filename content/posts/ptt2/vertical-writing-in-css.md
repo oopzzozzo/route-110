@@ -10,8 +10,7 @@ tags = ['軟體', '批兔']
 : 前一陣子跟同學聊到行列的問題<br>
 : 共識：說英文<br>
 
-還是有問題，比如 https://www.w3.org/TR/css-writing-modes-4/#vertical-layout<br>
-為了維持 row major 而把 row 變成直的（文字行進方向）。<br>
+還是有問題，比如 [CSS](https://www.w3.org/TR/css-writing-modes-4/#vertical-layout) 為了維持 row major 而把 row 變成直的（文字行進方向）。<br>
 雖然說 title row 聽起來比 title column 合理，但橫的 column 我有點難接受。<br>
 
 ※ 引述《oopzzozzo (π)》之銘言：<br>

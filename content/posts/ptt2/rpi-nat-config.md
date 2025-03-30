@@ -29,9 +29,9 @@ can not stat XXXXXX ... (I/O error)
 這樣下去沒完沒了，於是我決定整個刷掉重來。<br>
 <br>
 ### 然後我到了宿舍
-照著下面這兩個做<br>
-https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md<br>
-https://medium.com/@chungyi410/%E5%B0%87-raspberry-pi-%E7%9A%84-eth0-%E7%B6%B2%E8%B7%AF%E4%BB%8B%E9%9D%A2%E8%A8%AD%E5%AE%9A%E5%9B%BA%E5%AE%9A-ip-43010aa3effb<br>
+照著下面這兩個做
+- [Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md)
+- [黃忠義的 Medium 文章](https://medium.com/@chungyi410/%E5%B0%87-raspberry-pi-%E7%9A%84-eth0-%E7%B6%B2%E8%B7%AF%E4%BB%8B%E9%9D%A2%E8%A8%AD%E5%AE%9A%E5%9B%BA%E5%AE%9A-ip-43010aa3effb)
 <br>
 > Start it up<br>
 Now enable and start hostapd<br>

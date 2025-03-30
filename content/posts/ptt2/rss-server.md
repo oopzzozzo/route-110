@@ -14,8 +14,7 @@ tags = ['軟體', '批兔']
 然後既然都有一臺 NAS 了，就得多多利用。<br>
 以前用 ThunderBird + Dropbox 收 RSS，裝置間同步常出問題。<br>
 於是就去找一包現成的 TT-RSS + postgresDB 映像，放 NAS 上跑。<br>
-NAS 會自動把我家的 dynamic ip 登錄 DNS，我只要 port forwarding。
-（這另有竅門 https://www.reddit.com/r/singapore/comments/190qeqn/）<br>
+NAS 會自動把我家的 dynamic ip 登錄 DNS，我只要 port forwarding。（這另有[竅門](https://www.reddit.com/r/singapore/comments/190qeqn/)）<br>
 
 但隨著 feeds 增加，先是 feed loading 不出來，之後整臺 NAS 開始當。<br>
 經查是 >95% CPU 卡在 IO wait，IO 是 postgresDB 的 diskIO。<br>

@@ -22,4 +22,4 @@ tags = ['批兔']
 <br>
 --<br>
 ※ 發信站: 批踢踢兔(ptt2.cc), 來自: xxx.xxx.xxx.xxx (美國)<br>
-Re: 我沒照，網路上的 https://images.app.goo.gl/8T84j85wGwrjZWkq7<br>
+Re: 我沒照，網路上的![鹽湖城拉麵](https://s3-media4.fl.yelpcdn.com/bphoto/PEsWlSFSqZz5ni3HaVPRqw/o.jpg)<br>

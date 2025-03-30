@@ -36,7 +36,7 @@ $ sudo apt install scim scim-chewing
 後來我換筆電，就直接裝 Ubuntu 18.04，陸續有 qt 唯 super user 能讀檔的問題。<br>
 害我開 wire shark、virtual box 之類的都得 sudo，否則開檔案時就會當掉。<br>
 之前不知原因，數月前才想到 cat /proc/<pid>/maps ，發現開檔過程有戳到 hime。<br>
-果真這個 bug 約 2 年前就有人報了 https://github.com/hime-ime/hime/issues/580<br>
+果真這個 [bug](https://github.com/hime-ime/hime/issues/580) 約 2 年前就有人報了。<br>
 （我好笨，下了 2 年的關鍵字都找不到問題點。）<br>
 <br>
 眼看這個問題還沒人認領，就先丟到我的最愛，想說有空來研究一下，暫用 ibus 頂著。<br>
@@ -54,8 +54,8 @@ $ sudo apt install scim scim-chewing
 ### ibus 缺字 
 剛換 ibus 時，因為 UI 能調的較少（小窗窗的字體和大小等）有些不習慣。<br>
 接著無法克服的痛點是我 ibus-table-cangjie3 用起來會缺字。<br>
-例如這篇文有用到的「只」和「注」就打不出來。但 github 上的 source code 裡又有。<br>
-https://github.com/definite/ibus-table-chinese/tree/master/tables/cangjie#L9330<br>
+例如這篇文有用到的「只」和「注」就打不出來。但 [github 上的 source code 裡](https://github.com/definite/ibus-table-chinese/tree/master/tables/cangjie#L9330)又有。<br>
+<br>
 原因我也沒深究。<br>
 <br>
 ### hime 編譯 
@@ -79,9 +79,8 @@ $ sh distro/debian/gen-deb
 $ sudo dpkg -i ../hime-*.deb
 ```
 ### 找人家打包好的 
-我什麼都不會，只好撿現成的<br>
-https://packages.debian.org/search?keywords=hime<br>
-把東西加到 /etc/apt/sources.list<br>
+我什麼都不會，只好撿[現成的](https://packages.debian.org/search?keywords=hime)。<br>
+把東西加到 `/etc/apt/sources.list`<br>
 ```
 $ sudo apt update<br>
 $ sudo apt install hime<br>

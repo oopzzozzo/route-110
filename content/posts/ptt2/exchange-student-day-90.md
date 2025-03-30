@@ -29,7 +29,7 @@ tags = ['批兔']
 ### 寫作業 
 Rendering 作業因為一個愚蠢的 bug 搞了超久。<br>
 不過畫出來挺可愛的~<br>
-https://www.csie.ntu.edu.tw/~b05902041/rtg/prj11_simp.png<br>
+![茶壺](https://www.csie.ntu.edu.tw/~b05902041/rtg/prj11_simp.png)<br>
 Y 老師：「有了 GI 之後，就算你的模型參數爛掉，像塑膠，起碼會像真的塑膠。」<br>
 
 ### 優格 

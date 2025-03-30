@@ -30,13 +30,15 @@ tags = ['批兔']
 ### planetarium 玩具 
 Google 中文標天文台，想說去看看，走進才發現，原來是類似電影院的存在。<br>
 展場展很多有趣的東西，還有賣很多玩具，我玩得不亦樂乎：<br>
-++ 積木：https://imgur.com/naS2Kut 我的老鷹(? 感覺可以當雙十節玩具。<br>
+++ 積木： 我的老鷹(? 感覺可以當雙十節玩具。<br>
 彈簧：只有金屬的，沒有塑膠的，所以都很貴。<br>
-昆蟲：https://imgur.com/QOeSNWW 很美國的口味，我沒有試。<br>
-小電玩：https://imgur.com/cM2hbWl 這台只比我拳頭略大，還有不同遊戲。<br>
-π項鍊：就是一個很ㄎㄧㄤ的東西，照片糊掉，https://imgur.com/XSe0mzd<br>
+昆蟲：很美國的口味，我沒有試。<br>
+小電玩：這台只比我拳頭略大，還有不同遊戲。<br>
+π項鍊：就是一個很ㄎㄧㄤ的東西，照片糊掉。<br>
 金屬拼圖：薄金屬片切割成卡榫式的 3D 拼圖，有 R2-D2 的款式，心動很久，最後沒買。<br>
-NASA Logo 衣服：學校看到不少人穿，原來這裡有賣，一件 20 鎂。<br>
+NASA Logo 衣服：學校看到不少人穿，原來這裡有賣，一件 20 鎂。
+| ![積木老鷹](https://i.imgur.com/naS2Kut.jpeg) ![食用昆蟲](https://i.imgur.com/QOeSNWW.jpeg) | ![迷你街機](https://i.imgur.com/cM2hbWl.jpeg) | ![π項鍊](https://i.imgur.com/XSe0mzd.jpeg) |
+| --- | --- | --- |
 <br>
 ### planetarium 展出 
 週六下午人超多，那種一家 4 個小孩的，來沒幾家就一堆人。不過還是很好玩：<br>

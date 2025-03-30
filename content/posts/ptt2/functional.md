@@ -10,8 +10,7 @@ tags = ['批兔']
 Ｏ說他起初以為這門課會教程式語言怎麼用，後來才發現他錯了。<br>
 然後我們就開始向另一個學弟介紹functional<br>
 <br>
-其實我對functional的了解只有haskell，大部份還來自這部10分鐘短片<br>
-https://www.youtube.com/watch?v=RqvCNb7fKsg<br>
+其實我對functional的了解只有haskell，大部份還來自這部[10分鐘短片](https://www.youtube.com/watch?v=RqvCNb7fKsg)。
 <br>
 Ｏ說他上課睡睡醒醒的時候聽到老師說，<br>
 functional當初會輸給圖靈機，沒有成為主流，就是因為論文太難了大家都看不懂。<br>

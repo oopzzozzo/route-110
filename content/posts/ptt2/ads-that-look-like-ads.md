@@ -7,7 +7,7 @@ categories = ['心得']
 tags = ['批兔']
 +++
 前幾天聽說一般線上廣告的計費方式都是多少 CPC (cost per click)。<br>
-（可參考 google ads 上的 google ads 廣告 https://imgur.com/igusFiJ ）~假帳利器(?~<br>
+（可參考 [google ads 上的 google ads 廣告](https://imgur.com/igusFiJ) ）~假帳利器(?~<br>
 也就是說，不管曝光多少，錢都是用點擊算。<br>
 <br>
 那如果我今天是追求長期曝光的商家（例如補習班，你看廣告的當下不一定馬上需要）<br>

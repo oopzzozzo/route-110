@@ -43,6 +43,6 @@ tags = ['批兔']
 
 --<br>
 ※ 發信站: 批踢踢兔(ptt2.cc), 來自: xxx.xxx.xxx.xxx (新加坡)<br>
-Re: https://ithelp.ithome.com.tw/users/20154259/ironman/7768<br>
+Re: [系列文連結](https://ithelp.ithome.com.tw/users/20154259/ironman/7768)<br>
 Re: 品質變化：能看->勉強看得懂->一看就沒寫完->錯字連篇。進展非常迅速。<br>
 Re: 過完三十天我再一篇一篇把內容補整齊啦。<br>

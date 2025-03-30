@@ -21,8 +21,8 @@ tags = ['批兔']
 ### 插座
 回家後我們打算拿昨天在 IKEA 買的 4 座桌燈去退，因為它的插頭是歐規的。<br>
 結果 Y︰「咦，這螢幕插頭也是（拔）你看！歐規可以插進英規的…靠！插不回去了…」<br>
-一番搜尋後，我們才學到 https://www.youtube.com/watch?v=fi5_CTBnDgc<br>
-用延長線看很顯然，但牆上的插座就真的看不太出來插座有擋片。<br>
+一番搜尋後，我們才學到 [How to use European electric plug in the UK](https://www.youtube.com/watch?v=fi5_CTBnDgc)。<br>
+從影片中的延長線看很顯然，但牆上的插座就真的看不太出來插座有擋片。<br>
 ### 解決問題
 Y︰「看到沒有，我是來解決問題的，這才叫 Engineer。」<br>
 嗯，我前天用萬用轉接頭，有發現若公頭不拔出第三隻腳，就會插不進插座。<br>

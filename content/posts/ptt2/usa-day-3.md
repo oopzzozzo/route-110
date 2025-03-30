@@ -7,8 +7,7 @@ series = ['交換學生']
 categories = ['日常']
 tags = ['批兔']
 +++
-這部影片在說都市不集中所帶來的能源消耗。<br>
-https://www.youtube.com/watch?v=TRb52O76HxQ<br>
+[這部影片](https://www.youtube.com/watch?v=TRb52O76HxQ)在說都市不集中所帶來的能源消耗。<br>
 我高中的時候看沒什麼感覺，現在是切身體驗。<br>
 <br>
 應該是因為空曠的關係，GPS 似乎蠻準的，真是美國科技。<br>

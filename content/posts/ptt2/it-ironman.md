@@ -30,13 +30,14 @@ it 鐵人就是先參賽，不管寫什麼，一直寫，寫到習慣就對了�
 <br>
 ### 附錄
 我大學以來一直沒養成閱讀習慣，卻染上 YouTube。趁現在沒工作努力培養。<br>
-就看到這個 https://cacm.acm.org/research/50-years-of-queries/<br>
+就看到[這篇](https://cacm.acm.org/research/50-years-of-queries/)
+> In his early papers, Codd had described two relational query languages;<br>
+a "relational algebra" consisting of operators like "projection" and "join";
 
-In his early papers, Codd had described two relational query languages;<br>
-a "relational algebra" consisting of operators like "projection" and "join";<br>
 上面看起來就很理所當然的句子，我怎麼沒想到過啊。我活在這句話實現的五十年後耶。<br>
 
-mathematical formulas are compiled into procedures for loading registers and performing arithmetic<br>
+> mathematical formulas are compiled into procedures for loading registers and performing arithmetic
+
 對耶，沒想過，我完全就把 DB 當黑盒子看。忘記現代 compiler 也是各種 sample。<br>
 這麼說來 DB compile 出來的 query 有機會可以硬體加速？還是現在只剩 IO bond 了？<br>
 

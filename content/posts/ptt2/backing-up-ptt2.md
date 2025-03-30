@@ -13,7 +13,7 @@ tags = ['軟體', '批兔']
 : - 部落格<br>
 : - Ruffle (html5 的 flash 模擬器）<br>
 
-簡單架了一個部落格 https://route110.blog/ 版面和內容待滾動。<br>
+簡單架了一個[部落格](https://route110.blog/)，版面和內容待滾動。<br>
 目前希望：<br>
 - 文章可以多畫圖<br>
 - 中英文發不同內容

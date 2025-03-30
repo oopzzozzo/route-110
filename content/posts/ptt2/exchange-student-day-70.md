@@ -29,8 +29,7 @@ O 說美國社區大學學費很便宜（美國標準）。<br>
 還沒學會使用這東西。<br>
 <br>
 ### 語言 
-為何大人不善學語言：https://www.youtube.com/watch?v=gTgbDXYG_OY<br>
-看完覺得超有道理的，研究生們都跟我講中文比講英文多。<br>
+看完[為何大人不善學語言](https://www.youtube.com/watch?v=gTgbDXYG_OY)覺得超有道理的，研究生們都跟我講中文比講英文多。<br>
 然後每天寫 ptt 也會把自己洗腦成中文模式。<br>
 然後我又是喜歡套規則（syntax rule）的人，完全符合影片裡了老人。<br>
 但說到打破規則，我今天才跟人這麼說。<br>

@@ -12,7 +12,7 @@ tags = ['批兔']
 
 千字文第一回合： 4h02m  但願我平時行文的字頻分佈也能如此均勻。<br>
 <br>
-看著打，遇到不會的字就上 http://input.foruto.com/cccls/cjzd.html 查。<br>
+看著打，遇到不會的字就[查](http://input.foruto.com/cccls/cjzd.html)。<br>
 一度動念要爬成選取單字即跳出拆碼小視窗，怎料網頁是回圖檔。<br>
 <br>
 目前很大的障礙在於心裡想按的鍵跟實際按下去的不一樣。<br>

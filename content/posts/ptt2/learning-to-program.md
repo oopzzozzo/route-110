@@ -10,9 +10,8 @@ tags = ['軟體', '批兔']
 : 我一直覺得我媽資訊觀念蠻好的。我家的月曆從二十年前就是我媽用 excel 做的。<br>
 : 我今天能混口飯吃，太多是環境造成。若我媽晚生二十年，天賦肯定比我高得多。<br>
 
-我這才發現，Excel 在前年就圖靈完備了。<br>
+我這才發現，[Excel 在前年就圖靈完備](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)了。<br>
 人家上 POPL 打廣告，我還不知不覺…<br>
-https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/<br>
 <br>
 可以去恭喜我媽學會人生第一個程式語言嘍～~這樣算學會嗎？~<br>
 可惜我不能自稱第一個學的程式語言是 excel formula，因為我 2020 前就會其他語言。<br>
