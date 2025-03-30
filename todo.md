@@ -27,3 +27,4 @@
     - my js practicing games
 - setup vertical chinese
     - research rtl logic
+- allow switching languages when listing by tag
