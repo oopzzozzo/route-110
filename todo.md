@@ -3,9 +3,8 @@
 - what posts to sync to what platforms
 
 # Actions
-- check missing posts from ptt2 migration
-    - make sure locations are all tagged
 - change the ptt post quoting to markdown quoting
+- make sure locations are all tagged in ptt posts
 - math formula formatting
 - add tags
     - company animal
@@ -20,6 +19,7 @@
     - talking with elderly
 - fix series page to list series based on latest post
 - fix rss formating
+- add footer to denote abridge translations
 - migrate past posts
     - iron man series
 - check if article navigator is what I want
