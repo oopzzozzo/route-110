@@ -4,7 +4,7 @@ date = 2025-04-19T19:22:08+08:00
 categories = ['Life']
 tags = ['Hsinchu', 'Abridged Translation']
 +++
-I visited NCTU job fair with my high school frient D last month. It was rainy heavily, we took bus and walked through NTHU.
+I visited NCTU job fair with my high school friend D last month. It was rainy heavily, we took bus and walked through NTHU.
 
 ### Stalls
 #### AUO and Garmin
