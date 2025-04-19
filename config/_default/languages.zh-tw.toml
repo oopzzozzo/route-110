@@ -6,7 +6,7 @@ weight = 1
 title = "１１０號道路"
 
 [params]
-  displayName = "中"
+  displayName = "中文"
   isoCode = "zh-tw"
   rtl = false
   dateFormat = "2006年01月02日"
