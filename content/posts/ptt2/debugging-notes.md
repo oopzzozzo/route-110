@@ -6,13 +6,14 @@ draft = false
 categories = ['請益']
 tags = ['軟體', '批兔']
 +++
-※ 引述《oopzzozzo (π)》之銘言：<br>
-: \*ibus\*
-: 要移除 ibus 相關 package 時，我理所當然打上 sudo apt remove *ibus*<br>
-: 結果刪了一堆重要的東西，然後我居然還無腦 reboot。<br>
-: 看 reboot 轉圈圈，只好進安全模式。<br>
-: 用一些 vim 魔法整理出誤刪的列表<br>
-: 人生又充滿希望！感恩 log，讚嘆 log！
+> [
+\*ibus\*
+要移除 ibus 相關 package 時，我理所當然打上 sudo apt remove *ibus*<br>
+結果刪了一堆重要的東西，然後我居然還無腦 reboot。<br>
+看 reboot 轉圈圈，只好進安全模式。<br>
+用一些 vim 魔法整理出誤刪的列表<br>
+人生又充滿希望！感恩 log，讚嘆 log！
+]({{<ref "chinese-input-method-on-ubuntu">}})
 
 昨天升級 ubuntu，gnome deskop 出了一點問題，我解決不了就決定粗爆降級。<br>
 <br>

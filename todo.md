@@ -3,7 +3,6 @@
 - what posts to sync to what platforms
 
 # Actions
-- change the ptt post quoting to markdown quoting
 - make sure locations are all tagged in ptt posts
 - math formula formatting
 - add tags

@@ -6,8 +6,9 @@ lastmod = 2022-05-08T00:21:20+08:00
 categories = ['日常']
 tags = ['星國', '批兔']
 +++
-※ 引述《oopzzozzo (π)》之銘言：<br>
-: 像是彩色養欒多就別亂試。<br>
+> [
+像是彩色養欒多就別亂試。
+]({{<ref "trying-out-yakult">}})
 
 日本人 R 表示日本沒有沒有彩色養樂多。原來是新加坡特產。<br>
 推薦親朋好友來星旅遊可以見識見識[彩色養樂多](https://danielfooddiary.com/2019/10/26/yakult/)。

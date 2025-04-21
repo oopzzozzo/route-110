@@ -6,8 +6,9 @@ lastmod = 2022-05-30T00:23:42+08:00
 categories = ['日常']
 tags = ['星國', '批兔']
 +++
-※ 引述《oopzzozzo (π)》之銘言：<br>
-: 像是彩色養欒多就別亂試。<br>
+> [
+像是彩色養欒多就別亂試。
+]({{<ref "trying-out-yakult">}})<br>
 
 週末加班修垃圾。<br>
 <br>

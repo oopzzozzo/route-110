@@ -6,10 +6,11 @@ lastmod = 2024-04-07T15:36:58+08:00
 categories = ['日常']
 tags = ['批兔']
 +++
-※ 引述《oopzzozzo (π)》之銘言：<br>
-: ### 魚 
-: F 老師上課舉例 type 時也很喜歡用魚。在他去廣東的紀錄中，有這段有趣的描述：<br>
-: More than once we visited an "edible zoo" (my terminology): a restaraunt with a huge menu (fish, chicken, fish, pigeon, fish, snake, fish, turtle, ...) where you can chose your food while it's still in the tank/cage.
+> [
+魚<br>
+F 老師上課舉例 type 時也很喜歡用魚。在他去廣東的紀錄中，有這段有趣的描述：<br>
+More than once we visited an "edible zoo" (my terminology): a restaraunt with a huge menu (fish, chicken, fish, pigeon, fish, snake, fish, turtle, ...) where you can chose your food while it's still in the tank/cage.
+]({{<ref "exchange-student-day-98">}})
 
 週五下班前同事 T 揪吃飯：「我們要吃甲魚，要不要來？」<br>
 W ：「甲魚？」<br>
