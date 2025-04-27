@@ -1,0 +1,11 @@
+{{ $earliestDate := .Date }}
+{{ if .Pages }}
+  {{ range .Pages }}
+    {{ if .Date }}
+      {{ if lt .Date $earliestDate }}
+        {{ $earliestDate = .Date }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ return $earliestDate }}

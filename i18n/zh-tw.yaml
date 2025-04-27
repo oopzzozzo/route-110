@@ -1,2 +1,6 @@
 global:
   language: "中文"
+
+article:
+  post_count:
+    other: "{{ .Count }} 篇"

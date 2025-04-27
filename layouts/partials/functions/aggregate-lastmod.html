@@ -1,0 +1,11 @@
+{{ $latestDate := .Lastmod }}
+{{ if .Pages }}
+  {{ range .Pages }}
+    {{ if .Lastmod }}
+      {{ if gt .Date $latestDate }}
+        {{ $latestDate = .Lastmod }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ return $latestDate}}

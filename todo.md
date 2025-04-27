@@ -16,7 +16,6 @@
     - talking with colleagues
     - talking with classmates
     - talking with elderly
-- fix series page to list series based on latest post
 - fix rss formating
 - add footer to denote abridge translations
 - migrate past posts
