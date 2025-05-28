@@ -14,7 +14,7 @@ tags = ['數學']
 
 ### 軌道為圓的證明
 > [
-設地月半徑比為 m:e，則有 月K:K地 = 月R:R地 = m:e <br>
+設地月半徑比為 m:e，則有 月P:P地 = 月K:K地 = 月R:R地 = m:e <br>
 即 ∠地P月 之內分角線為 PK；外分角線為 PR<br>
 故 ∠KPR = 90°；P 在直徑 KR 的圓周上
 ](https://lyingheart6174.pixnet.net/blog/post/5122618)
