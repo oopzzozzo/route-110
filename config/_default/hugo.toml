@@ -9,6 +9,10 @@ defaultContentLanguage = "zh-tw"
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableGitInfo = true
+[caches]
+  [caches.images]
+      dir = ':cacheDir/images'
+
 [FrontMatter]
 lastmod = [ "lastmod", ":git", "date", "publishDate" ]
 
