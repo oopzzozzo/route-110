@@ -25,7 +25,7 @@ Namecheap 付款可以用 Paypal、信用卡或是 Bitpay。我用 Paypal 比較
 本來部落格的網址是 https://mynas.synology.me/route-110/xxx。可以在 WebServer（synology 上的是 nginx，）上直接加一條規則，讓 `route110.blog` 打來的請求直接對應到 `route-110/` 資料夾。避免 `https://route110.blog/route-110/` 這種冗長的 url。
 
 ## 取得 SSL 憑證
-域名規則設好後，就可以後 http://route110.blog 瀏覧了，只是還沒有 https。要使用加密的 https，需要有第三方認證的密鑰，客戶端才能信任密鑰的正確性。將密鑰、認証和域名打包起來稱為憑證。Namecheap 效期一年的憑證賣 5.99 鎂。另外也有免費的憑證可以拿，如 Let's Encrypt 和 SSL For Free。
+域名規則設好後，就可以用 http 瀏覧了。要使用加密的 https，需要有第三方認證的密鑰，客戶端才能信任密鑰的正確性。將密鑰、認証和域名打包起來稱為憑證。Namecheap 效期一年的憑證賣 5.99 鎂。另外也有免費的憑證可以拿，如 Let's Encrypt 和 SSL For Free。
 Synology 控制台可以直接設定 Let's Encrypt，但是我試了幾次都失敗。起初猜測是因為我一直改動 DNS 紀錄，可能要等一段時間，各種 TTL 過去，Let's Encrypt 才能正常連上。後來發現好像另有原因。
 
 ### 各種 Let's Encrypt 失敗
