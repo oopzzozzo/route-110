@@ -1,7 +1,9 @@
 +++
 title = '放下 KPI'
 date = 2025-12-09T08:04:53+08:00
+lastmod = 2025-12-09T08:04:53+08:00
 categories = ['心得']
+series = ['架設部落格']
 +++
 
 ### Ahref
