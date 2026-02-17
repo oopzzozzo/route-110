@@ -13,9 +13,12 @@ trials = 100000
 results = [f() for _ in range(trials)]
 
 plt.figure(figsize=(10, 6))
-plt.hist(results, bins=range(min(results), max(results) + 2), align='left', color='skyblue', edgecolor='black', alpha=0.7)
-plt.axvline(sum(results)/len(results), color='red', linestyle='dashed', linewidth=2, label=f'Mean: {sum(results)/len(results):.2f}')
-plt.axvline(37.24, color='green', linestyle='dotted', linewidth=2, label='Theoretical: 37.24')
+plt.hist(results, bins=range(min(results), max(results) + 2), align='left',
+         color='skyblue', edgecolor='black', alpha=0.7)
+plt.axvline(sum(results)/len(results), color='red', linestyle='dashed',
+            linewidth=2, label=f'Mean: {sum(results)/len(results):.2f}')
+plt.axvline(37.24, color='green', linestyle='dotted', linewidth=2,
+            label='Theoretical: 37.24')
 
 plt.title('Distribution of Purchases to Collect 12 Cards')
 plt.xlabel('Number of Purchases')
