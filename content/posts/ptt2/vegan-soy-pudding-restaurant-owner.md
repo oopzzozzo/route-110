@@ -1,7 +1,6 @@
 +++
 title = '素食豆花店老闆娘'
 date = 2020-08-18T21:51:14+08:00
-draft = false
 lastmod = 2020-08-18T21:51:14+08:00
 categories = ['人物']
 tags = ['批兔']

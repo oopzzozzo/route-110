@@ -1,7 +1,6 @@
 +++
 title = '老師與巧虎'
 date = 2018-12-11T03:03:24+08:00
-draft = false
 lastmod = 2018-12-11T03:03:24+08:00
 categories = ['亂講']
 tags = ['批兔']

@@ -2,7 +2,6 @@
 title = '系隊借場'
 date = 2021-01-23T02:10:28+08:00
 lastmod = 2021-01-23T02:10:28+08:00
-draft = false
 categories = ['心得']
 tags = ['批兔']
 +++

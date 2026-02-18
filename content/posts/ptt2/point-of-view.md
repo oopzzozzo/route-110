@@ -1,7 +1,6 @@
 +++
 title = '視角'
 date = 2020-12-29T20:30:35+08:00
-draft = false
 lastmod = 2020-12-29T20:30:35+08:00
 categories = ['夜常']
 tags = ['批兔']

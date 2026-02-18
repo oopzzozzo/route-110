@@ -1,7 +1,6 @@
 +++
 title = 'Re: 嫩'
 date = 2024-12-10T07:10:43+08:00
-draft = false
 lastmod = 2024-12-10T07:10:43+08:00
 categories = ['日常']
 tags = ['批兔']

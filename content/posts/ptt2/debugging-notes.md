@@ -2,7 +2,6 @@
 title = 'debug 日記'
 date = 2023-05-15T09:05:58+08:00
 lastmod = 2023-05-15T09:05:58+08:00
-draft = false
 categories = ['請益']
 tags = ['軟體', '批兔']
 +++

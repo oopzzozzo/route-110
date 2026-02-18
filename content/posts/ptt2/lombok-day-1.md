@@ -1,7 +1,6 @@
 +++
 title = '龍目島 Day 1'
 date = 2022-06-28T22:46:32+08:00
-draft = false
 lastmod = 2022-06-28T22:46:32+08:00
 series = ['龍目島']
 categories = ['遊記']

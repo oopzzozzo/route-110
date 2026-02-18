@@ -1,7 +1,6 @@
 +++
 title = '大師'
 date = 2018-10-07T01:07:45+08:00
-draft = false
 lastmod = 2018-10-07T01:07:45+08:00
 categories = ['閒聊']
 tags = ['批兔']

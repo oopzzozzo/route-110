@@ -2,7 +2,6 @@
 title = '命名'
 date = 2023-07-16T13:25:33+08:00
 lastmod = 2023-07-16T13:25:33+08:00
-draft = false
 categories = ['心得']
 tags = ['批兔']
 +++

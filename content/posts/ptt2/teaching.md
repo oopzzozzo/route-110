@@ -1,7 +1,6 @@
 +++
 title = '教學'
 date = 2020-10-19T23:21:06+08:00
-draft = false
 lastmod = 2020-10-19T23:21:06+08:00
 categories = ['心得']
 tags = ['批兔']

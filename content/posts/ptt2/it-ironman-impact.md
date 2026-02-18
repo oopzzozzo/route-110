@@ -1,7 +1,6 @@
 +++
 title = 'Re: it 鐵人'
 date = 2025-03-10T22:45:51+08:00
-draft = false
 lastmod = 2025-03-10T22:45:51+08:00
 categories = ['心得']
 tags = ['批兔']

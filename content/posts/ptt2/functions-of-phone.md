@@ -2,7 +2,6 @@
 title = '手機的功用'
 date = 2022-01-19T00:43:12+08:00
 lastmod = 2022-01-19T00:43:12+08:00
-draft = false
 categories = ['筆記']
 tags = ['批兔']
 +++

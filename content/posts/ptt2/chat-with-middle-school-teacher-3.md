@@ -1,7 +1,6 @@
 +++
 title = 'with 國中老師 (3)'
 date = 2019-07-08T16:41:22+08:00
-draft = false
 lastmod = 2019-07-08T16:41:22+08:00
 series = ['和國中老師閒聊']
 categories = ['閒聊']

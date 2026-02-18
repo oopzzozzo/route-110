@@ -1,7 +1,6 @@
 +++
 title = 'Re: 面試'
 date = 2025-01-04T01:12:30+08:00
-draft = false
 lastmod = 2025-01-04T01:12:30+08:00
 categories = ['閒聊']
 tags = ['批兔']

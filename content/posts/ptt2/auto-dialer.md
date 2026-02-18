@@ -1,7 +1,6 @@
 +++
 title = '撥號機'
 date = 2021-01-30T00:10:39+08:00
-draft = false
 lastmod = 2021-01-30T00:10:39+08:00
 categories = ['心得']
 tags = ['批兔']

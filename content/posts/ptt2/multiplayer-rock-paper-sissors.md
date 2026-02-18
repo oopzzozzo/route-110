@@ -2,7 +2,6 @@
 title = '多人猜拳'
 date = 2020-03-13T23:56:57+08:00
 lastmod = 2020-04-20T23:56:57+08:00
-draft = false
 categories = ['閒聊']
 tags = ['數學', '批兔']
 +++

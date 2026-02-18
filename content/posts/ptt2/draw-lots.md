@@ -1,7 +1,6 @@
 +++
 title = '抽籤'
 date = 2018-09-14T22:45:53+08:00
-draft = false
 lastmod = 2018-09-14T22:45:53+08:00
 categories = ['心得']
 tags = ['批兔']

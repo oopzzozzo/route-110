@@ -1,7 +1,6 @@
 +++
 title = '交換 Day126-127'
 date = 2019-12-25T12:33:26+08:00
-draft = false
 lastmod = 2019-12-25T12:33:26+08:00
 series = ["交換學生"]
 categories = ['日常']

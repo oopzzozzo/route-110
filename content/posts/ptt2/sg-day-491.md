@@ -2,7 +2,6 @@
 title = 'SG Day 491 百勝樓'
 date = 2022-08-05T00:10:56+08:00
 lastmod = 2022-08-05T00:10:56+08:00
-draft = false
 series = ['新加坡日常']
 categories = ['日常']
 tags = ['批兔']

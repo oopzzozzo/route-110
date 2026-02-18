@@ -1,7 +1,6 @@
 +++
 title = '交大學姊'
 date = 2018-07-05T01:03:57+08:00
-draft = false
 lastmod = 2018-07-05T01:03:57+08:00
 categories = ['日常']
 tags = ['批兔']

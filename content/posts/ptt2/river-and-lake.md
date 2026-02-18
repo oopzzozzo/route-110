@@ -1,7 +1,6 @@
 +++
 title = '江湖'
 date = 2019-11-10T15:31:08+08:00
-draft = false
 lastmod = 2019-11-10T15:31:08+08:00
 categories = ['閒聊']
 tags = ['批兔']

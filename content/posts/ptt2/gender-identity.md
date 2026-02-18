@@ -1,7 +1,6 @@
 +++
 title = '性別認同'
 date = 2020-04-02T21:23:19+08:00
-draft = false
 lastmod = 2020-04-02T21:23:19+08:00
 categories = ['閒聊']
 tags = ['批兔']

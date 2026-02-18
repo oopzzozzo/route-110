@@ -1,7 +1,6 @@
 +++
 title = '批兔備份'
 date = 2025-03-10T21:46:16+08:00
-draft = false
 lastmod = 2025-03-10T21:46:16+08:00
 categories = ['請益']
 tags = ['軟體', '批兔']

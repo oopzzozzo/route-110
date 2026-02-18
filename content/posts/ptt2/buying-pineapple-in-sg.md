@@ -1,7 +1,6 @@
 +++
 title = '鳳梨'
 date = 2022-12-18T22:58:45+08:00
-draft = false
 lastmod = 2022-12-18T22:58:45+08:00
 categories = ['日常']
 tags = ['星國', '批兔']

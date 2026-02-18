@@ -2,7 +2,6 @@
 title = '資料庫相關演講'
 date = 2023-10-17T17:34:00+08:00
 lastmod = 2023-10-17T17:34:00+08:00
-draft = false
 categories = ['心得']
 tags = ['星國', '批兔']
 +++

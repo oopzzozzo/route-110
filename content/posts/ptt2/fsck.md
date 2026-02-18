@@ -1,7 +1,6 @@
 +++
 title = 'fsck'
 date = 2021-08-01T23:41:36+08:00
-draft = false
 lastmod = 2021-08-01T23:41:36+08:00
 categories = ['筆記']
 tags = ['軟體', '批兔']

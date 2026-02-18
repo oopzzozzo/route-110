@@ -2,7 +2,6 @@
 title = '3D 字體'
 date = 2024-11-04T01:00:21+08:00
 lastmod = 2024-11-04T01:00:21+08:00
-draft = false
 categories = ['心得']
 tags = ['批兔']
 +++

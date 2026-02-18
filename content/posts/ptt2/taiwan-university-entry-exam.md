@@ -1,7 +1,6 @@
 +++
 title = '學測'
 date = 2023-01-16T22:01:14+08:00
-draft = false
 lastmod = 2023-01-16T22:01:14+08:00
 categories = ['閒聊']
 tags = ['批兔']

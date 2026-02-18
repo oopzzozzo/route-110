@@ -1,7 +1,6 @@
 +++
 title = '糾察'
 date = 2021-04-11T14:16:37+08:00
-draft = false
 lastmod = 2021-04-11T14:16:37+08:00
 categories = ['閒聊']
 tags = ['星國', '批兔']

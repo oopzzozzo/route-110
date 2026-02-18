@@ -1,7 +1,6 @@
 +++
 title = '翻轉'
 date = 2020-07-20T21:17:09+08:00
-draft = false
 lastmod = 2020-07-20T21:17:09+08:00
 categories = ['轉錄']
 tags = ['批兔']

@@ -1,7 +1,6 @@
 +++
 title = 'unicode 編碼'
 date = 2022-09-03T12:50:31+08:00
-draft = false
 lastmod = 2022-09-03T12:50:31+08:00
 categories = ['筆記']
 tags = ['軟體', '批兔']

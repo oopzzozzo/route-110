@@ -2,7 +2,6 @@
 title = '放假週 Day 5'
 date = 2022-09-20T22:07:08+08:00
 lastmod = 2022-09-20T22:07:08+08:00
-draft = false
 categories = ['日常']
 tags = ['新竹', '批兔']
 +++

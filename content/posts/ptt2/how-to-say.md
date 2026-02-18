@@ -1,7 +1,6 @@
 +++
 title = '話怎麼說'
 date = 2023-06-10T14:26:47+08:00
-draft = false
 lastmod = 2023-06-10T14:26:47+08:00
 categories = ['日常']
 tags = ['批兔']

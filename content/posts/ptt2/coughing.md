@@ -1,7 +1,6 @@
 +++
 title = '咳嗽'
 date = 2024-01-28T18:38:47+08:00
-draft = false
 lastmod = 2024-01-28T18:38:47+08:00
 categories = ['日常']
 tags = ['批兔']

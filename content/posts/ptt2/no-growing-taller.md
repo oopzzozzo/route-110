@@ -1,7 +1,6 @@
 +++
 title = 'NO長高高'
 date = 2018-11-15T14:56:49+08:00
-draft = false
 lastmod = 2018-11-15T14:56:49+08:00
 categories = ['日常']
 tags = ['批兔']

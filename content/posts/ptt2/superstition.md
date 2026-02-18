@@ -1,7 +1,6 @@
 +++
 title = '迷信'
 date = 2021-02-15T23:10:52+08:00
-draft = false
 lastmod = 2021-02-15T23:10:52+08:00
 categories = ['日常']
 tags = ['批兔']

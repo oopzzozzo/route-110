@@ -1,7 +1,6 @@
 +++
 title = '幾歲'
 date = 2022-01-14T21:48:25+08:00
-draft = false
 lastmod = 2022-01-14T21:48:25+08:00
 categories = ['日常']
 tags = ['星國', '批兔']

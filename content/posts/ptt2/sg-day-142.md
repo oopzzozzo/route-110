@@ -2,7 +2,6 @@
 title = 'SG Day142 面交'
 date = 2021-09-04T00:40:21+08:00
 lastmod = 2021-09-04T00:40:21+08:00
-draft = false
 series = ['新加坡日常']
 categories = ['日常']
 tags = ['批兔']

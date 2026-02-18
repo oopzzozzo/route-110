@@ -1,7 +1,6 @@
 +++
 title = '全聯'
 date = 2020-10-20T21:58:32+08:00
-draft = false
 lastmod = 2020-10-20T21:58:32+08:00
 categories = ['日常']
 tags = ['批兔']

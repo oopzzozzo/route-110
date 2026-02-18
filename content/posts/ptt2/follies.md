@@ -1,7 +1,6 @@
 +++
 title = '蠢事'
 date = 2021-06-09T23:27:50+08:00
-draft = false
 lastmod = 2021-06-09T23:27:50+08:00
 categories = ['日常']
 tags = ['批兔']

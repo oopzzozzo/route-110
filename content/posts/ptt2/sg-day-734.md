@@ -1,7 +1,6 @@
 +++
 title = 'SG Day 734 KTV'
 date = 2023-04-01T23:29:16+08:00
-draft = false
 lastmod = 2023-04-01T23:29:16+08:00
 series = ["新加坡日常"]
 categories = ['日常']

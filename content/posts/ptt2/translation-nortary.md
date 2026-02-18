@@ -1,7 +1,6 @@
 +++
 title = '翻譯公證'
 date = 2023-10-17T23:54:04+08:00
-draft = false
 lastmod = 2023-10-17T23:54:04+08:00
 categories = ['日常']
 tags = ['行政', '批兔']

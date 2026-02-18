@@ -1,7 +1,6 @@
 +++
 title = 'Firefox 關閉其他裝置的分頁'
 date = 2024-10-13T16:07:02+08:00
-draft = false
 lastmod = 2024-10-13T16:07:02+08:00
 categories = ['心得']
 tags = ['軟體', '批兔']

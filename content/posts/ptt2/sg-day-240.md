@@ -2,7 +2,6 @@
 title = 'SG Day240 海生館'
 date = 2021-11-25T22:47:33+08:00
 lastmod = 2021-11-25T22:47:33+08:00
-draft = false
 series = ["新加坡日常"]
 categories = ['日常']
 tags = ['星國', '批兔']

@@ -2,7 +2,6 @@
 title = '龍目島 Day 0'
 date = 2022-06-27T23:47:56+08:00
 lastmod = 2022-06-27T23:47:56+08:00
-draft = false
 series = ['龍目島']
 categories = ['遊記']
 tags = ['印尼', '批兔']

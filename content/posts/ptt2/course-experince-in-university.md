@@ -1,7 +1,6 @@
 +++
 title = '大學修課體驗'
 date = 2021-06-20T19:08:46+08:00
-draft = false
 lastmod = 2021-06-20T19:08:46+08:00
 categories = ['閒聊']
 tags = ['批兔']

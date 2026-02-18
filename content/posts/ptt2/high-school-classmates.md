@@ -1,7 +1,6 @@
 +++
 title = '高中同學們'
 date = 2020-05-11T13:33:20+08:00
-draft = false
 lastmod = 2020-05-11T13:33:20+08:00
 categories = ['閒聊']
 tags = ['批兔']

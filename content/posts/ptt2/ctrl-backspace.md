@@ -1,7 +1,6 @@
 +++
 title = '打字'
 date = 2020-12-20T22:10:23+08:00
-draft = false
 lastmod = 2020-12-20T22:10:23+08:00
 categories = ['常識']
 tags = ['批兔']

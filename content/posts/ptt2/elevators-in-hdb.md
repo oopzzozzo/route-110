@@ -1,7 +1,6 @@
 +++
 title = '公宅電梯'
 date = 2022-06-15T09:51:48+08:00
-draft = false
 lastmod = 2022-06-15T09:51:48+08:00
 categories = ['日常']
 tags = ['星國', '批兔']

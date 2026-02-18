@@ -1,7 +1,6 @@
 +++
 title = '打字'
 date = 2021-02-14T15:46:09+08:00
-draft = false
 lastmod = 2021-02-14T15:46:09+08:00
 categories = ['日常']
 tags = ['批兔']

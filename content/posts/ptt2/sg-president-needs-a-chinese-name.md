@@ -1,7 +1,6 @@
 +++
 title = 'Re: SG Day 889 選舉日'
 date = 2024-05-19T01:21:03+08:00
-draft = false
 lastmod = 2024-05-19T01:21:03+08:00
 categories = ['日常']
 tags = ['批兔']

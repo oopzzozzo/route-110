@@ -1,7 +1,6 @@
 +++
 title = '送禮'
 date = 2023-02-15T08:58:47+08:00
-draft = false
 lastmod = 2023-02-15T08:58:47+08:00
 categories = ['閒聊']
 tags = ['批兔']

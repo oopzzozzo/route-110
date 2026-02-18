@@ -1,7 +1,6 @@
 +++
 title = '海南雞飯'
 date = 2023-05-30T07:58:14+08:00
-draft = false
 lastmod = 2023-05-30T07:58:14+08:00
 categories = ['日常']
 tags = ['星國', '批兔']

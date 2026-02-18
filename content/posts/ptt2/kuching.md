@@ -1,7 +1,6 @@
 +++
 title = '古晉'
 date = 2022-12-29T23:57:03+08:00
-draft = false
 lastmod = 2022-12-29T23:57:03+08:00
 categories = ['遊記']
 tags = ['批兔']

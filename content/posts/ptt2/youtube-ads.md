@@ -1,7 +1,6 @@
 +++
 title = 'youtube廣告'
 date = 2018-08-05T00:58:59+08:00
-draft = false
 lastmod = 2018-08-05T00:58:59+08:00
 categories = ['日常']
 tags = ['批兔']

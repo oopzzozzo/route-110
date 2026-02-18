@@ -1,7 +1,6 @@
 +++
 title = 'SG Day 556 公車廣告'
 date = 2022-10-15T21:11:07+08:00
-draft = false
 lastmod = 2022-10-15T21:11:07+08:00
 series = ["新加坡日常"]
 categories = ['日常']

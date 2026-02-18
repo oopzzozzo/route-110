@@ -1,7 +1,6 @@
 +++
 title = 'comma'
 date = 2020-05-16T19:55:29+08:00
-draft = false
 lastmod = 2020-05-16T19:55:29+08:00
 categories = ['廢文']
 tags = ['批兔']

@@ -1,7 +1,6 @@
 +++
 title = '潔癖'
 date = 2021-09-19T11:52:37+08:00
-draft = false
 lastmod = 2021-09-19T11:52:37+08:00
 categories = ['閒聊']
 tags = ['批兔']

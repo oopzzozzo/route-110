@@ -1,7 +1,6 @@
 +++
 title = '行列'
 date = 2018-10-30T10:59:23+08:00
-draft = false
 lastmod = 2018-10-30T10:59:23+08:00
 categories = ['閒聊']
 tags = ['批兔']

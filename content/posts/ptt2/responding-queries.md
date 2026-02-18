@@ -1,7 +1,6 @@
 +++
 title = '回答問題'
 date = 2020-01-07T02:14:15+08:00
-draft = false
 lastmod = 2020-01-07T02:14:15+08:00
 categories = ['閒聊']
 tags = ['批兔']

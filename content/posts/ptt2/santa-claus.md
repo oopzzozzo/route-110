@@ -1,7 +1,6 @@
 +++
 title = '聖誕老人'
 date = 2024-03-12T01:17:28+08:00
-draft = false
 lastmod = 2024-03-12T01:17:28+08:00
 categories = ['閒聊']
 tags = ['星國', '批兔']

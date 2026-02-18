@@ -1,7 +1,6 @@
 +++
 title = '期中考'
 date = 2020-05-05T18:44:12+08:00
-draft = false
 lastmod = 2020-05-05T18:44:12+08:00
 categories = ['亂講']
 tags = ['批兔']

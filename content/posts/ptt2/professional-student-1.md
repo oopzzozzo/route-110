@@ -1,7 +1,6 @@
 +++
 title = 'Re: 職業學生'
 date = 2020-07-02T16:01:54+08:00
-draft = false
 lastmod = 2020-07-02T16:01:54+08:00
 categories = ['亂講']
 tags = ['批兔']

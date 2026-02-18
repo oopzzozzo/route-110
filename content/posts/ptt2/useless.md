@@ -1,7 +1,6 @@
 +++
 title = '無用'
 date = 2020-05-20T11:30:50+08:00
-draft = false
 lastmod = 2020-05-20T11:30:50+08:00
 categories = ['閒聊']
 tags = ['批兔']

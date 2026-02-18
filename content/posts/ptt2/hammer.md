@@ -1,7 +1,6 @@
 +++
 title = '槌子'
 date = 2022-03-28T13:45:20+08:00
-draft = false
 lastmod = 2022-03-28T13:45:20+08:00
 categories = ['夜常']
 tags = ['批兔']

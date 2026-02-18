@@ -2,7 +2,6 @@
 title = '職業病'
 date = 2022-08-05T00:28:12+08:00
 lastmod = 2022-08-05T00:28:12+08:00
-draft = false
 categories = ['日常']
 tags = ['批兔']
 +++

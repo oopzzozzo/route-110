@@ -1,7 +1,6 @@
 +++
 title = '拜拜'
 date = 2021-02-10T09:37:22+08:00
-draft = false
 lastmod = 2021-02-10T09:37:22+08:00
 categories = ['活動']
 tags = ['批兔']

@@ -2,7 +2,6 @@
 title = '提供衛生紙'
 date = 2020-09-22T23:54:12+08:00
 lastmod = 2020-09-22T23:54:12+08:00
-draft = false
 categories = ['日常']
 tags = ['批兔']
 +++

@@ -1,7 +1,6 @@
 +++
 title = 'SG Day 889 選舉日'
 date = 2023-09-16T15:22:50+08:00
-draft = false
 lastmod = 2023-09-16T15:22:50+08:00
 series = ["新加坡日常"]
 categories = ['日常']

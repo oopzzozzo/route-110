@@ -1,7 +1,6 @@
 +++
 title = '秀姑巒溪泛舟'
 date = 2020-08-15T13:26:59+08:00
-draft = false
 lastmod = 2020-08-15T13:26:59+08:00
 categories = ['活動']
 tags = ['花蓮', '批兔']

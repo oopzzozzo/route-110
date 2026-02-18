@@ -1,7 +1,6 @@
 +++
 title = 'Re: 閏秒'
 date = 2022-11-24T22:47:36+08:00
-draft = false
 lastmod = 2022-11-24T22:47:36+08:00
 categories = ['心得']
 tags = ['科學', '批兔']

@@ -1,7 +1,6 @@
 +++
 title = '普吉島 Day 1'
 date = 2024-07-20T21:50:39+08:00
-draft = false
 lastmod = 2024-07-20T21:50:39+08:00
 series = ['普吉島']
 categories = ['遊記']

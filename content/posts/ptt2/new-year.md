@@ -1,7 +1,6 @@
 +++
 title = '新年'
 date = 2019-01-01T00:00:02+08:00
-draft = false
 lastmod = 2019-01-01T00:00:02+08:00
 categories = ['閒聊']
 tags = ['批兔']

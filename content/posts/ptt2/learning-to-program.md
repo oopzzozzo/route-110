@@ -1,7 +1,6 @@
 +++
 title = '學程式'
 date = 2022-03-29T00:28:28+08:00
-draft = false
 lastmod = 2022-03-29T00:28:28+08:00
 categories = ['閒聊']
 tags = ['軟體', '批兔']

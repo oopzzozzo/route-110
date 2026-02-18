@@ -2,7 +2,6 @@
 title = '覺得'
 date = 2019-10-01T23:50:47+08:00
 lastmod = 2019-10-01T23:50:47+08:00
-draft = false
 categories = ['建議']
 tags = ['寫作', '批兔']
 +++

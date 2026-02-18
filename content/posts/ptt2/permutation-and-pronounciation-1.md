@@ -1,7 +1,6 @@
 +++
 title = 'Re: 藍色小懶狗'
 date = 2020-05-30T12:08:29+08:00
-draft = false
 lastmod = 2020-05-30T12:08:29+08:00
 categories = ['問題']
 tags = ['批兔']

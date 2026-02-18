@@ -2,7 +2,6 @@
 title = 'covid'
 date = 2024-01-05T06:45:26+08:00
 lastmod = 2024-01-05T06:45:26+08:00
-draft = false
 categories = ['日常']
 tags = ['批兔']
 +++

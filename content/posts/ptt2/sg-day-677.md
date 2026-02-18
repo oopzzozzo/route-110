@@ -2,7 +2,6 @@
 title = 'SG Day 677 多多'
 date = 2023-02-08T23:11:33+08:00
 lastmod = 2023-02-08T23:11:33+08:00
-draft = false
 series = ['新加坡日常']
 categories = ['日常']
 tags = ['批兔']

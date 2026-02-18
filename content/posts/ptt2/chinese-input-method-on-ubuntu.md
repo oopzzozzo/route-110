@@ -2,7 +2,6 @@
 title = 'Ubuntu 上的中文輸入法'
 date = 2021-02-14T23:21:05+08:00
 lastmod = 2021-02-14T23:21:05+08:00
-draft = false
 categories = ['筆記']
 tags = ['軟體', '批兔']
 +++

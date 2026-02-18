@@ -1,7 +1,6 @@
 +++
 title = '信箱'
 date = 2018-09-30T23:42:33+08:00
-draft = false
 lastmod = 2018-09-30T23:42:33+08:00
 categories = ['閒聊']
 tags = ['批兔']

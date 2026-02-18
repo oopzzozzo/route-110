@@ -1,7 +1,6 @@
 +++
 title = '三輪車'
 date = 2021-03-13T20:02:09+08:00
-draft = false
 lastmod = 2021-03-13T20:02:09+08:00
 categories = ['夜常']
 tags = ['批兔']

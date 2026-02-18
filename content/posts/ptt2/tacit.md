@@ -1,7 +1,6 @@
 +++
 title = '默契'
 date = 2019-01-05T10:07:34+08:00
-draft = false
 lastmod = 2019-01-05T10:07:34+08:00
 categories = ['日常']
 tags = ['批兔']

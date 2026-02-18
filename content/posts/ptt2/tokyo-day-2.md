@@ -2,7 +2,6 @@
 title = '東京 Day 2'
 date = 2023-11-18T18:39:00+08:00
 lastmod = 2023-11-18T18:39:00+08:00
-draft = false
 series = ['東京仙台']
 categories = ['遊記']
 tags = ['日本', '批兔']

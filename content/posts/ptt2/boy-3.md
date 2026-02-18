@@ -2,7 +2,6 @@
 title = '弟弟 (3)'
 date = 2021-01-17T23:42:52+08:00
 lastmod = 2021-01-17T23:42:52+08:00
-draft = false
 categories = ['日常']
 tags = ['批兔']
 +++

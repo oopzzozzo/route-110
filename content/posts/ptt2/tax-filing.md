@@ -2,7 +2,6 @@
 title = '報稅'
 date = 2022-06-24T23:34:53+08:00
 lastmod = 2022-06-24T23:34:53+08:00
-draft = false
 categories = ['日常']
 tags = ['批兔']
 +++

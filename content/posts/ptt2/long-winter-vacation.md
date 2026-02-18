@@ -1,7 +1,6 @@
 +++
 title = '寒假有點長'
 date = 2020-02-17T00:42:12+08:00
-draft = false
 lastmod = 2020-02-17T00:42:12+08:00
 categories = ['日常']
 tags = ['批兔']

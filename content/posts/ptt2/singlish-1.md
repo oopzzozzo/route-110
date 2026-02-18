@@ -1,7 +1,6 @@
 +++
 title = '星語 (1)'
 date = 2020-12-18T23:24:12+08:00
-draft = false
 lastmod = 2020-12-18T23:24:12+08:00
 series = ['星語']
 categories = ['筆記']

@@ -2,7 +2,6 @@
 title = 'SG Day 477'
 date = 2022-07-17T16:49:55+08:00
 lastmod = 2022-07-17T16:49:55+08:00
-draft = false
 series = ['新加坡日常']
 categories = ['日常']
 tags = ['批兔']

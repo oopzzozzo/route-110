@@ -1,7 +1,6 @@
 +++
 title = '瓊州會館'
 date = 2024-05-27T01:31:38+08:00
-draft = false
 lastmod = 2024-05-27T01:31:38+08:00
 categories = ['閒聊']
 tags = ['大馬', '批兔']

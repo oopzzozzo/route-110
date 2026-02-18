@@ -1,7 +1,6 @@
 +++
 title = 'Re: 學倉頡'
 date = 2020-06-22T22:50:52+08:00
-draft = false
 lastmod = 2020-06-22T22:50:52+08:00
 series = ['學倉頡']
 categories = ['Flag']

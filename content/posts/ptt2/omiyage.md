@@ -2,7 +2,6 @@
 title = '伴手禮'
 date = 2022-02-23T21:16:31+08:00
 lastmod = 2022-02-23T21:16:31+08:00
-draft = false
 categories = ['日常']
 tags = ['星國', '批兔']
 +++

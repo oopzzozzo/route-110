@@ -1,7 +1,6 @@
 +++
 title = '大同電鍋'
 date = 2023-03-06T22:08:45+08:00
-draft = false
 lastmod = 2023-03-06T22:08:45+08:00
 categories = ['日常']
 tags = ['星國', '批兔']

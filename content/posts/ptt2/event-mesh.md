@@ -1,7 +1,6 @@
 +++
 title = 'Event Mesh'
 date = 2024-10-09T14:04:30+08:00
-draft = false
 lastmod = 2024-10-09T14:04:30+08:00
 categories = ['筆記']
 tags = ['軟體', '批兔']

@@ -1,7 +1,6 @@
 +++
 title = '國中同學'
 date = 2024-12-23T23:26:49+08:00
-draft = false
 lastmod = 2024-12-23T23:26:49+08:00
 categories = ['閒聊']
 tags = ['批兔']

@@ -1,7 +1,6 @@
 +++
 title = 'Panacea'
 date = 2019-10-13T15:42:31+08:00
-draft = false
 lastmod = 2019-10-13T15:42:31+08:00
 categories = ['閒聊']
 tags = ['批兔']

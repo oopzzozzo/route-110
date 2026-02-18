@@ -1,7 +1,6 @@
 +++
 title = '註冊'
 date = 2020-08-26T03:39:53+08:00
-draft = false
 lastmod = 2020-08-26T03:39:53+08:00
 categories = ['日常']
 tags = ['批兔']

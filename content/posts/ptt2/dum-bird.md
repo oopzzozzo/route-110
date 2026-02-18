@@ -1,7 +1,6 @@
 +++
 title = '笨鳥'
 date = 2020-07-20T19:52:06+08:00
-draft = false
 lastmod = 2020-07-20T19:52:06+08:00
 categories = ['轉錄']
 tags = ['批兔']

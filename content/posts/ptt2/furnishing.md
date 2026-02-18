@@ -1,7 +1,6 @@
 +++
 title = '佈置'
 date = 2019-08-16T14:11:25+08:00
-draft = false
 lastmod = 2019-08-16T14:11:25+08:00
 categories = ['閒聊']
 tags = ['美國', '批兔']

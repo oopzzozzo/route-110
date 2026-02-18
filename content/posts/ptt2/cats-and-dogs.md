@@ -1,7 +1,6 @@
 +++
 title = '貓狗'
 date = 2019-09-09T11:50:43+08:00
-draft = false
 lastmod = 2019-09-09T11:50:43+08:00
 categories = ['閒聊']
 tags = ['批兔']

@@ -2,7 +2,6 @@
 title = '龍目島 登山人物誌'
 date = 2022-07-10T18:42:20+08:00
 lastmod = 2022-07-10T18:42:20+08:00
-draft = false
 series = ['龍目島']
 categories = ['遊記']
 tags = ['印尼', '批兔']

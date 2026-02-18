@@ -1,7 +1,6 @@
 +++
 title = '教中文'
 date = 2025-01-27T01:12:38+08:00
-draft = false
 lastmod = 2025-01-27T01:12:38+08:00
 categories = ['閒聊']
 tags = ['批兔']

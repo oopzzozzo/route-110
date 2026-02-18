@@ -2,7 +2,6 @@
 title = '七捨八入'
 date = 2020-10-10T18:36:05+08:00
 lastmod = 2020-10-10T18:36:05+08:00
-draft = false
 categories = ['夜常']
 tags = ['批兔']
 +++

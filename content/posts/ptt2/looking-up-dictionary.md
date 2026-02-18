@@ -2,7 +2,6 @@
 title = '查字典'
 date = 2022-09-10T22:50:37+08:00
 lastmod = 2022-09-10T22:50:37+08:00
-draft = false
 categories = ['閒聊']
 tags = ['批兔']
 +++

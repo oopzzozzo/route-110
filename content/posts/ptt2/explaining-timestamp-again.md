@@ -1,7 +1,6 @@
 +++
 title = 'Re: 解釋'
 date = 2023-04-11T22:37:07+08:00
-draft = false
 lastmod = 2023-04-11T22:37:07+08:00
 categories = ['討論']
 tags = ['批兔']

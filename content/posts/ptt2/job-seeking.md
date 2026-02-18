@@ -1,7 +1,6 @@
 +++
 title = '找工作'
 date = 2020-04-30T23:55:34+08:00
-draft = false
 lastmod = 2020-04-30T23:55:34+08:00
 categories = ['心得']
 tags = ['批兔']

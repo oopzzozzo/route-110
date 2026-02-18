@@ -1,7 +1,6 @@
 +++
 title = '湊人數'
 date = 2018-12-01T18:47:07+08:00
-draft = false
 lastmod = 2018-12-01T18:47:07+08:00
 categories = ['活動']
 tags = ['比賽', '批兔']

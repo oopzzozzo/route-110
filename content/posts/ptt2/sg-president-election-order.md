@@ -1,7 +1,6 @@
 +++
 title = 'Re: SG Day 868 選舉令'
 date = 2023-08-18T21:26:01+08:00
-draft = false
 lastmod = 2023-08-18T21:26:01+08:00
 series = ['新加坡日常']
 categories = ['日常']

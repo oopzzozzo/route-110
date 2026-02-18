@@ -1,7 +1,6 @@
 +++
 title = '捷運座位'
 date = 2022-11-16T23:14:16+08:00
-draft = false
 lastmod = 2022-11-16T23:14:16+08:00
 categories = ['心得']
 tags = ['星國', '批兔']

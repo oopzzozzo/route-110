@@ -2,7 +2,6 @@
 title = '用 joycon 當滑鼠'
 date = 2022-12-26T15:13:56+08:00
 lastmod = 2022-12-26T15:13:56+08:00
-draft = false
 categories = ['筆記']
 tags = ['軟體', '硬體', '批兔']
 +++

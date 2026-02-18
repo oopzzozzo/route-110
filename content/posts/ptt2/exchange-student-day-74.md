@@ -1,7 +1,6 @@
 +++
 title = '交換 Day74 湊人數'
 date = 2019-10-27T23:46:01+08:00
-draft = false
 lastmod = 2019-10-27T23:46:01+08:00
 series = ['交換學生']
 categories = ['活動']

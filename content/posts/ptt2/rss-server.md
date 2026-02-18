@@ -1,7 +1,6 @@
 +++
 title = 'RSS server'
 date = 2024-08-22T01:14:28+08:00
-draft = false
 lastmod = 2024-08-22T01:14:28+08:00
 series = ['架設 RSS']
 categories = ['筆記']

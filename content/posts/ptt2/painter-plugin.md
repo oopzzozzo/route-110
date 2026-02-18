@@ -1,7 +1,6 @@
 +++
 title = '小畫家外掛'
 date = 2023-04-16T14:27:43+08:00
-draft = false
 lastmod = 2023-04-16T14:27:43+08:00
 categories = ['夜常']
 tags = ['批兔']

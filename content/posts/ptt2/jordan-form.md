@@ -1,7 +1,6 @@
 +++
 title = 'Jordan form'
 date = 2019-07-18T00:41:30+08:00
-draft = false
 lastmod = 2019-07-18T00:41:30+08:00
 categories = ['閒聊']
 tags = ['批兔']

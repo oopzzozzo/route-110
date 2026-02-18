@@ -1,7 +1,6 @@
 +++
 title = '讀書就想睡'
 date = 2022-03-20T01:36:36+08:00
-draft = false
 lastmod = 2022-03-20T01:36:36+08:00
 categories = ['日常']
 tags = ['批兔']

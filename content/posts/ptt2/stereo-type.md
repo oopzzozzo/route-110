@@ -2,7 +2,6 @@
 title = '刻版印象'
 date = 2020-09-15T23:27:09+08:00
 lastmod = 2020-09-15T23:27:09+08:00
-draft = false
 categories = ['閒聊']
 tags = ['批兔']
 +++

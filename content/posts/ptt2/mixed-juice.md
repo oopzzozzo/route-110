@@ -2,7 +2,6 @@
 title = '綜合蔬果汁'
 date = 2020-10-01T14:06:44+08:00
 lastmod = 2020-10-01T14:06:44+08:00
-draft = false
 categories = ['日常']
 tags = ['批兔']
 +++

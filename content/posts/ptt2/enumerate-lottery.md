@@ -1,7 +1,6 @@
 +++
 title = '包牌'
 date = 2018-10-13T17:42:18+08:00
-draft = false
 lastmod = 2018-10-13T17:42:18+08:00
 categories = ['心得']
 tags = ['批兔']

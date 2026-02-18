@@ -2,7 +2,6 @@
 title = '巴淡島 Day 3'
 date = 2023-05-06T22:09:56+08:00
 lastmod = 2023-05-06T22:09:56+08:00
-draft = false
 series = ['巴淡島']
 categories = ['遊記']
 tags = ['印尼', '批兔']

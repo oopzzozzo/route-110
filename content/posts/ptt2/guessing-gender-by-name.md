@@ -2,7 +2,6 @@
 title = '名字'
 date = 2023-12-03T03:59:43+08:00
 lastmod = 2023-12-03T03:59:43+08:00
-draft = false
 categories = ['閒聊']
 tags = ['批兔']
 +++

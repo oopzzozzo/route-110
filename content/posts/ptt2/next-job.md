@@ -1,7 +1,6 @@
 +++
 title = 'Re: 資遣費'
 date = 2024-08-15T23:26:48+08:00
-draft = false
 lastmod = 2024-08-15T23:26:48+08:00
 categories = ['職業']
 tags = ['批兔']

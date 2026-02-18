@@ -2,7 +2,6 @@
 title = 'Re: SG Day 477 傳教'
 date = 2023-08-12T03:09:56+08:00
 lastmod = 2023-08-12T03:09:56+08:00
-draft = false
 categories = ['日常']
 tags = ['星國', '批兔']
 +++

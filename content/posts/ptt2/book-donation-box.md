@@ -1,7 +1,6 @@
 +++
 title = '捐書箱'
 date = 2018-07-03T01:39:41+08:00
-draft = false
 lastmod = 2018-07-03T01:39:41+08:00
 categories = ['情報']
 tags = ['批兔']

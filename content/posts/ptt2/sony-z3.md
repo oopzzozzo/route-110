@@ -1,7 +1,6 @@
 +++
 title = 'Sony Z3'
 date = 2020-05-05T18:24:18+08:00
-draft = false
 lastmod = 2020-05-05T18:24:18+08:00
 categories = ['筆記']
 tags = ['批兔']

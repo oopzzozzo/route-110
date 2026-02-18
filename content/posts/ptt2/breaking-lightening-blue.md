@@ -2,7 +2,6 @@
 title = '閃電藍'
 date = 2020-11-10T22:26:29+08:00
 lastmod = 2020-11-10T22:26:29+08:00
-draft = false
 categories = ['日常']
 tags = ['批兔']
 +++

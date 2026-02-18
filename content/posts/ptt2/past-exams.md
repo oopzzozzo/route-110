@@ -1,7 +1,6 @@
 +++
 title = '考古題'
 date = 2018-11-28T07:24:31+08:00
-draft = false
 lastmod = 2018-11-28T07:24:31+08:00
 categories = ['日常']
 tags = ['批兔']

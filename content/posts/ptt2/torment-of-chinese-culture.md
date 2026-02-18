@@ -2,7 +2,6 @@
 title = '中華文化荼毒'
 date = 2020-11-21T00:48:32+08:00
 lastmod = 2020-11-21T00:48:32+08:00
-draft = false
 categories = ['心得']
 tags = ['批兔']
 +++

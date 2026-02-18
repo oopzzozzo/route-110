@@ -1,7 +1,6 @@
 +++
 title = '發財'
 date = 2019-11-12T11:27:22+08:00
-draft = false
 lastmod = 2019-11-12T11:27:22+08:00
 categories = ['閒聊']
 tags = ['批兔']

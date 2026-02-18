@@ -2,7 +2,6 @@
 title = '新竹的同學們'
 date = 2021-01-03T12:46:17+08:00
 lastmod = 2021-01-03T12:46:17+08:00
-draft = false
 categories = ['閒聊']
 tags = ['新竹', '批兔']
 +++

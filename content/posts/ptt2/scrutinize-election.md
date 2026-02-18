@@ -1,7 +1,6 @@
 +++
 title = '監票'
 date = 2018-11-25T01:00:50+08:00
-draft = false
 lastmod = 2018-11-25T01:00:50+08:00
 categories = ['日常']
 tags = ['批兔']

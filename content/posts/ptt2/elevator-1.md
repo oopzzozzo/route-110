@@ -1,7 +1,6 @@
 +++
 title = '電梯 (1)'
 date = 2021-02-25T22:55:40+08:00
-draft = false
 lastmod = 2021-02-25T22:55:40+08:00
 series = ['辦公大樓電梯']
 categories = ['日常']

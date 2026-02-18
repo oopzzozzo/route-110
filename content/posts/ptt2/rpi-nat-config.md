@@ -1,7 +1,6 @@
 +++
 title = '樹莓派 NAT 設定'
 date = 2020-03-02T00:43:36+08:00
-draft = false
 lastmod = 2020-03-02T00:43:36+08:00
 categories = ['筆記']
 tags = ['軟體', '批兔']

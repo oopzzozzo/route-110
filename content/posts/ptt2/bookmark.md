@@ -2,7 +2,6 @@
 title = 'bookmark'
 date = 2022-06-12T19:11:45+08:00
 lastmod = 2022-06-12T19:11:45+08:00
-draft = false
 categories = ['常識']
 tags = ['軟體', '批兔']
 +++

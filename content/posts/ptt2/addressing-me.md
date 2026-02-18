@@ -1,7 +1,6 @@
 +++
 title = '稱呼'
 date = 2022-05-14T21:23:45+08:00
-draft = false
 lastmod = 2022-05-14T21:23:45+08:00
 categories = ['日常']
 tags = ['批兔']

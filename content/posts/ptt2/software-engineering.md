@@ -1,7 +1,6 @@
 +++
 title = '軟體工程'
 date = 2020-09-01T02:42:02+08:00
-draft = false
 lastmod = 2020-09-01T02:42:02+08:00
 categories = ['心得']
 tags = ['批兔']

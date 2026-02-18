@@ -1,7 +1,6 @@
 +++
 title = '泡茶'
 date = 2022-04-03T01:01:16+08:00
-draft = false
 lastmod = 2022-04-03T01:01:16+08:00
 categories = ['日常']
 tags = ['星國', '批兔']

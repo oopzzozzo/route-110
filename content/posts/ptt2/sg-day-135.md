@@ -2,7 +2,6 @@
 title = 'SG Day135 博物館'
 date = 2021-09-03T23:02:40+08:00
 lastmod = 2021-09-03T23:02:40+08:00
-draft = false
 series = ['新加坡日常']
 categories = ['日常']
 tags = ['批兔']

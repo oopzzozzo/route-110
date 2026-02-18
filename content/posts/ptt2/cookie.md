@@ -2,7 +2,6 @@
 title = 'cookie'
 date = 2022-03-05T23:17:28+08:00
 lastmod = 2022-03-05T23:17:28+08:00
-draft = false
 categories = ['筆記']
 tags = ['軟體', '批兔']
 +++

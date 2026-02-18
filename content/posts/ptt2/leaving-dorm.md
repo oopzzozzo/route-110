@@ -1,7 +1,6 @@
 +++
 title = '退宿'
 date = 2019-08-05T16:26:12+08:00
-draft = false
 lastmod = 2019-08-05T16:26:12+08:00
 categories = ['留念']
 tags = ['批兔']

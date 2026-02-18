@@ -1,7 +1,6 @@
 +++
 title = '渴望'
 date = 2021-07-18T00:28:32+08:00
-draft = false
 lastmod = 2021-07-18T00:28:32+08:00
 categories = ['夜常']
 tags = ['批兔']

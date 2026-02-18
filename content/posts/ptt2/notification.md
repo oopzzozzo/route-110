@@ -1,7 +1,6 @@
 +++
 title = '跳通知'
 date = 2022-04-24T19:09:27+08:00
-draft = false
 lastmod = 2022-04-24T19:09:27+08:00
 categories = ['日常']
 tags = ['軟體', '批兔']

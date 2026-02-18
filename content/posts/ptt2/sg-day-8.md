@@ -1,7 +1,6 @@
 +++
 title = 'SG Day8'
 date = 2021-04-04T05:10:14+08:00
-draft = false
 lastmod = 2021-04-04T05:10:14+08:00
 series = ["新加坡日常"]
 categories = ['日常']

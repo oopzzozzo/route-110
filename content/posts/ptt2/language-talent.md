@@ -1,7 +1,6 @@
 +++
 title = '語言能力'
 date = 2023-02-22T08:11:47+08:00
-draft = false
 lastmod = 2023-02-22T08:11:47+08:00
 categories = ['閒聊']
 tags = ['星國', '批兔']

@@ -1,7 +1,6 @@
 +++
 title = '名字'
 date = 2018-09-15T20:14:33+08:00
-draft = false
 lastmod = 2018-09-15T20:14:33+08:00
 categories = ['日常']
 tags = ['批兔']

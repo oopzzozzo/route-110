@@ -1,7 +1,6 @@
 +++
 title = '乾燥'
 date = 2019-09-30T10:34:18+08:00
-draft = false
 lastmod = 2019-09-30T10:34:18+08:00
 categories = ['日常']
 tags = ['批兔']

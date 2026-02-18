@@ -2,7 +2,6 @@
 title = '柔佛'
 date = 2023-06-09T22:51:56+08:00
 lastmod = 2023-06-09T22:51:56+08:00
-draft = false
 categories = ['遊記']
 tags = ['大馬', '批兔']
 +++

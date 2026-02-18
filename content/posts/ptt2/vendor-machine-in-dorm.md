@@ -1,7 +1,6 @@
 +++
 title = '宿舍販賣機'
 date = 2019-08-28T13:50:56+08:00
-draft = false
 lastmod = 2019-08-28T13:50:56+08:00
 categories = ['日常']
 tags = ['批兔']

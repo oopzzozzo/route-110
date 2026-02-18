@@ -1,7 +1,6 @@
 +++
 title = '輔導員'
 date = 2019-07-05T00:00:59+08:00
-draft = false
 lastmod = 2019-07-05T00:00:59+08:00
 categories = ['日常']
 tags = ['批兔']

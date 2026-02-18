@@ -1,7 +1,6 @@
 +++
 title = 'USA Day4'
 date = 2019-08-12T14:06:36+08:00
-draft = false
 lastmod = 2019-08-12T14:06:36+08:00
 series = ['交換學生']
 categories = ['日常']

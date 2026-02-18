@@ -1,7 +1,6 @@
 +++
 title = 'different'
 date = 2024-07-12T10:21:11+08:00
-draft = false
 lastmod = 2024-07-12T10:21:11+08:00
 categories = ['筆記']
 tags = ['批兔']

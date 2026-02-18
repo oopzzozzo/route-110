@@ -2,7 +2,6 @@
 title = '兩卷衛生紙'
 date = 2020-09-02T01:11:37+08:00
 lastmod = 2020-09-02T01:11:37+08:00
-draft = false
 categories = ['心得']
 tags = ['批兔']
 +++

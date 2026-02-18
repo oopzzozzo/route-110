@@ -1,7 +1,6 @@
 +++
 title = '失物'
 date = 2021-10-22T05:45:15+08:00
-draft = false
 lastmod = 2021-10-22T05:45:15+08:00
 categories = ['日常']
 tags = ['批兔']

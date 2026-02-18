@@ -2,7 +2,6 @@
 title = 'SG Day 1198 退稅'
 date = 2024-07-06T22:11:27+08:00
 lastmod = 2024-07-06T22:11:27+08:00
-draft = false
 series = ['新加坡日常']
 categories = ['日常']
 tags = ['批兔']

@@ -1,7 +1,6 @@
 +++
 title = '嫩'
 date = 2022-02-08T01:15:08+08:00
-draft = false
 lastmod = 2022-02-08T01:15:08+08:00
 categories = ['日常']
 tags = ['批兔']

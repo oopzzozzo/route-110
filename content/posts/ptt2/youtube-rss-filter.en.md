@@ -1,7 +1,6 @@
 +++
 title = 'Re: RSS server'
 date = 2024-10-12T00:53:08+08:00
-draft = false
 lastmod = 2024-10-12T00:53:08+08:00
 series = ['Setup RSS']
 categories = ['Note']

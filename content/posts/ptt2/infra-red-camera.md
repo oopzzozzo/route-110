@@ -1,7 +1,6 @@
 +++
 title = 'Re: 交換 Day126-127'
 date = 2020-10-01T13:05:24+08:00
-draft = false
 lastmod = 2020-10-01T13:05:24+08:00
 categories = ['日常']
 tags = ['批兔']

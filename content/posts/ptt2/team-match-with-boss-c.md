@@ -1,7 +1,6 @@
 +++
 title = 'Re: 版標'
 date = 2024-09-28T19:04:47+08:00
-draft = false
 lastmod = 2024-09-28T19:04:47+08:00
 categories = ['心得']
 tags = ['批兔']

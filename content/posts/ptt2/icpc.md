@@ -1,7 +1,6 @@
 +++
 title = 'ICPC'
 date = 2022-11-12T10:32:49+08:00
-draft = false
 lastmod = 2022-11-12T10:32:49+08:00
 categories = ['閒聊']
 tags = ['比賽', '批兔']

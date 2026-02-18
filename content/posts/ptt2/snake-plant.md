@@ -1,7 +1,6 @@
 +++
 title = '金邊虎尾蘭'
 date = 2023-12-07T10:01:48+08:00
-draft = false
 lastmod = 2023-12-07T10:01:48+08:00
 categories = ['日常']
 tags = ['批兔']

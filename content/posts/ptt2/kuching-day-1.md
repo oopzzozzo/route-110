@@ -2,7 +2,6 @@
 title = '古晉 Day 1'
 date = 2023-01-10T00:02:28+08:00
 lastmod = 2023-01-10T00:02:28+08:00
-draft = false
 categories = ['遊記']
 tags = ['大馬', '批兔']
 +++

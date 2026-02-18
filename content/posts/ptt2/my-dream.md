@@ -2,7 +2,6 @@
 title = '我的夢'
 date = 2023-06-04T19:35:15+08:00
 lastmod = 2023-06-04T19:35:15+08:00
-draft = false
 categories = ['夜常']
 tags = ['批兔']
 +++

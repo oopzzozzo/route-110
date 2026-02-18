@@ -1,7 +1,6 @@
 +++
 title = 'Re: 名字'
 date = 2024-10-02T16:42:12+08:00
-draft = false
 lastmod = 2024-10-02T16:42:12+08:00
 categories = ['閒聊']
 tags = ['批兔']

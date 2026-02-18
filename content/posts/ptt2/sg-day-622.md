@@ -2,7 +2,6 @@
 title = 'SG Day 622 擂茶'
 date = 2022-12-10T00:48:00+08:00
 lastmod = 2022-12-10T00:48:00+08:00
-draft = false
 series = ['新加坡日常']
 categories = ['日常']
 tags = ['批兔']

@@ -1,7 +1,6 @@
 +++
 title = '共編'
 date = 2022-03-26T21:47:21+08:00
-draft = false
 lastmod = 2022-03-26T21:47:21+08:00
 categories = ['閒聊']
 tags = ['軟體', '批兔']

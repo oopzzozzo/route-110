@@ -1,7 +1,6 @@
 +++
 title = '大 ML 時代'
 date = 2019-08-31T11:13:22+08:00
-draft = false
 lastmod = 2019-08-31T11:13:22+08:00
 series = ['交換學生']
 categories = ['閒聊']

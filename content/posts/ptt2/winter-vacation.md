@@ -1,7 +1,6 @@
 +++
 title = '寒假'
 date = 2019-01-19T21:25:19+08:00
-draft = false
 lastmod = 2019-01-19T21:25:19+08:00
 categories = ['Flag']
 tags = ['批兔']

@@ -2,7 +2,6 @@
 title = '補習班'
 date = 2022-05-14T21:52:36+08:00
 lastmod = 2022-05-14T21:52:36+08:00
-draft = false
 categories = ['日常']
 tags = ['星國', '批兔']
 +++

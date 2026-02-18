@@ -1,7 +1,6 @@
 +++
 title = '早安'
 date = 2023-12-18T23:37:29+08:00
-draft = false
 lastmod = 2023-12-18T23:37:29+08:00
 categories = ['閒聊']
 tags = ['星國', '批兔']

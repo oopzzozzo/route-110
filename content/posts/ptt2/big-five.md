@@ -1,7 +1,6 @@
 +++
 title = '大五碼'
 date = 2021-12-11T01:06:43+08:00
-draft = false
 lastmod = 2021-12-11T01:06:43+08:00
 categories = ['心得']
 tags = ['軟體', '批兔']

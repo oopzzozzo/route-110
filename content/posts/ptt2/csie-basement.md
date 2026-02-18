@@ -1,7 +1,6 @@
 +++
 title = '德田地下室'
 date = 2024-06-14T16:40:35+08:00
-draft = false
 lastmod = 2024-06-14T16:40:35+08:00
 categories = ['日常']
 tags = ['批兔']

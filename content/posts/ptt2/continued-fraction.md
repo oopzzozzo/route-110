@@ -2,7 +2,6 @@
 title = '連分數'
 date = 2020-05-16T00:48:22+08:00
 lastmod = 2020-05-16T00:48:22+08:00
-draft = false
 categories = ['筆記']
 tags = ['數學', '批兔']
 +++

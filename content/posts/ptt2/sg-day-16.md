@@ -2,7 +2,6 @@
 title = 'SG Day16'
 date = 2021-04-11T00:27:50+08:00
 lastmod = 2021-04-11T00:27:50+08:00
-draft = false
 series = ['新加坡日常']
 categories = ['日常']
 tags = ['批兔']

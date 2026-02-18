@@ -1,7 +1,6 @@
 +++
 title = '地球是圓的'
 date = 2019-08-09T23:03:51+08:00
-draft = false
 lastmod = 2019-08-09T23:03:51+08:00
 categories = ['心得']
 tags = ['科學', '批兔']

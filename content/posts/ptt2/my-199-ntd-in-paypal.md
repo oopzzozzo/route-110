@@ -1,7 +1,6 @@
 +++
 title = 'Paypal 的 199 元'
 date = 2023-04-16T14:34:14+08:00
-draft = false
 lastmod = 2023-04-16T14:34:14+08:00
 categories = ['日常']
 tags = ['批兔']

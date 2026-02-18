@@ -1,7 +1,6 @@
 +++
 title = '新生健檢'
 date = 2020-07-27T21:09:54+08:00
-draft = false
 lastmod = 2020-07-27T21:09:54+08:00
 categories = ['日常']
 tags = ['批兔']

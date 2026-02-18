@@ -1,7 +1,6 @@
 +++
 title = 'Feynman-Gates conversation'
 date = 2019-07-01T03:38:40+08:00
-draft = false
 lastmod = 2019-07-01T03:38:40+08:00
 categories = ['讀書']
 tags = ['批兔']

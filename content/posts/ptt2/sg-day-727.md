@@ -2,7 +2,6 @@
 title = 'SG Day 727 檳榔'
 date = 2023-03-26T17:23:01+08:00
 lastmod = 2023-03-26T17:23:01+08:00
-draft = false
 series = ['新加坡日常']
 categories = ['閒聊']
 tags = ['批兔']

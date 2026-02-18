@@ -1,7 +1,6 @@
 +++
 title = '頂樓'
 date = 2020-07-20T20:47:27+08:00
-draft = false
 lastmod = 2020-07-20T20:47:27+08:00
 categories = ['轉錄']
 tags = ['批兔']

@@ -1,7 +1,6 @@
 +++
 title = '美簽'
 date = 2019-07-08T17:38:52+08:00
-draft = false
 lastmod = 2019-07-08T17:38:52+08:00
 series = ['交換學生']
 categories = ['日常']

@@ -2,7 +2,6 @@
 title = 'do-while, while, for'
 date = 2020-12-01T22:50:28+08:00
 lastmod = 2020-12-01T22:50:28+08:00
-draft = false
 categories = ['討論']
 tags = ['軟體', '批兔']
 +++

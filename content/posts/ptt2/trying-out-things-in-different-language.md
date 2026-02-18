@@ -1,7 +1,6 @@
 +++
 title = 'Re: 嘗鮮'
 date = 2022-05-08T00:21:20+08:00
-draft = false
 lastmod = 2022-05-08T00:21:20+08:00
 categories = ['日常']
 tags = ['星國', '批兔']

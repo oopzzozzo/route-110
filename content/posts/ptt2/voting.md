@@ -1,7 +1,6 @@
 +++
 title = '投票'
 date = 2019-09-27T13:11:35+08:00
-draft = false
 lastmod = 2019-09-27T13:11:35+08:00
 categories = ['日常']
 tags = ['美國', '批兔']

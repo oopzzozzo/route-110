@@ -1,7 +1,6 @@
 +++
 title = 'Re: 交換 Day98'
 date = 2024-04-07T15:36:58+08:00
-draft = false
 lastmod = 2024-04-07T15:36:58+08:00
 categories = ['日常']
 tags = ['批兔']

@@ -1,7 +1,6 @@
 +++
 title = 'Switch 模擬器 Ryujinx'
 date = 2024-10-02T08:59:10+08:00
-draft = false
 lastmod = 2024-10-02T08:59:10+08:00
 categories = ['轉錄']
 tags = ['軟體', '批兔']

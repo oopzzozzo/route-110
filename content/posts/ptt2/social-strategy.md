@@ -1,7 +1,6 @@
 +++
 title = '社交策略'
 date = 2020-07-05T23:00:21+08:00
-draft = false
 lastmod = 2020-07-05T23:00:21+08:00
 categories = ['閒聊']
 tags = ['批兔']

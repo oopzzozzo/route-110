@@ -1,7 +1,6 @@
 +++
 title = '寫程式的人'
 date = 2021-01-10T21:27:57+08:00
-draft = false
 lastmod = 2021-01-10T21:27:57+08:00
 categories = ['閒聊']
 tags = ['批兔']

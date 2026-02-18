@@ -1,7 +1,6 @@
 +++
 title = '偏光螢幕'
 date = 2024-04-30T00:27:12+08:00
-draft = false
 lastmod = 2024-04-30T00:27:12+08:00
 categories = ['筆記']
 tags = ['科學', '批兔']

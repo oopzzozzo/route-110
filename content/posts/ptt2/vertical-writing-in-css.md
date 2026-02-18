@@ -1,7 +1,6 @@
 +++
 title = 'Re: 行列'
 date = 2025-02-02T00:00:58+08:00
-draft = false
 lastmod = 2025-02-02T00:00:58+08:00
 categories = ['閒聊']
 tags = ['軟體', '批兔']

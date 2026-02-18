@@ -1,7 +1,6 @@
 +++
 title = '關新公園'
 date = 2020-11-07T22:34:39+08:00
-draft = false
 lastmod = 2020-11-07T22:34:39+08:00
 categories = ['日常']
 tags = ['新竹', '批兔']

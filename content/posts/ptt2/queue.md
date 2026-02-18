@@ -1,7 +1,6 @@
 +++
 title = '排隊'
 date = 2019-09-09T11:42:16+08:00
-draft = false
 lastmod = 2019-09-09T11:42:16+08:00
 categories = ['日常']
 tags = ['美國', '批兔']

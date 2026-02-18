@@ -1,7 +1,6 @@
 +++
 title = '你怎麼知道'
 date = 2024-04-28T18:02:30+08:00
-draft = false
 lastmod = 2024-04-28T18:02:30+08:00
 categories = ['閒聊']
 tags = ['星國', '批兔']

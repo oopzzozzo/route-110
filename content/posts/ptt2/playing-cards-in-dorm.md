@@ -1,7 +1,6 @@
 +++
 title = '宿舍打牌'
 date = 2020-06-04T11:59:06+08:00
-draft = false
 lastmod = 2020-06-04T11:59:06+08:00
 categories = ['日常']
 tags = ['批兔']

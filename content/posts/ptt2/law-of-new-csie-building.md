@@ -1,7 +1,6 @@
 +++
 title = '新館定律'
 date = 2018-12-10T20:09:24+08:00
-draft = false
 lastmod = 2018-12-10T20:09:24+08:00
 categories = ['心得']
 tags = ['批兔']

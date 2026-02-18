@@ -1,7 +1,6 @@
 +++
 title = '超渡'
 date = 2021-10-01T00:09:15+08:00
-draft = false
 lastmod = 2021-10-01T00:09:15+08:00
 categories = ['心得']
 tags = ['批兔']

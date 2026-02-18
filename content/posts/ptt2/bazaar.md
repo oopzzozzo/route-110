@@ -2,7 +2,6 @@
 title = '市場'
 date = 2022-05-01T23:45:55+08:00
 lastmod = 2022-05-01T23:45:55+08:00
-draft = false
 categories = ['日常']
 tags = ['星國', '批兔']
 +++

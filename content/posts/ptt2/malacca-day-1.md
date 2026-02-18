@@ -1,7 +1,6 @@
 +++
 title = '麻六甲 Day 1'
 date = 2024-08-19T19:04:31+08:00
-draft = false
 lastmod = 2024-08-19T19:04:31+08:00
 series = ['麻六甲']
 categories = ['遊記']

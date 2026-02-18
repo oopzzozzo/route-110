@@ -2,7 +2,6 @@
 title = 'Re: 共編和裝置同步'
 date = 2024-09-30T13:02:06+08:00
 lastmod = 2024-09-30T13:02:06+08:00
-draft = false
 categories = ['閒聊']
 tags = ['軟體', '批兔']
 +++

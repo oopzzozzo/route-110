@@ -1,7 +1,6 @@
 +++
 title = '師生比'
 date = 2019-08-02T00:46:52+08:00
-draft = false
 lastmod = 2019-08-02T00:46:52+08:00
 categories = ['夜常']
 tags = ['批兔']

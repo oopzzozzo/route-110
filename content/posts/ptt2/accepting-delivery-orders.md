@@ -2,7 +2,6 @@
 title = '外送員接單'
 date = 2020-10-24T02:36:53+08:00
 lastmod = 2020-10-24T02:36:53+08:00
-draft = false
 categories = ['閒聊']
 tags = ['軟體', '批兔']
 +++

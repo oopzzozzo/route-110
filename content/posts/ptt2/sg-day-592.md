@@ -1,7 +1,6 @@
 +++
 title = 'SG Day 592 健檢'
 date = 2022-11-09T00:46:08+08:00
-draft = false
 lastmod = 2022-11-09T00:46:08+08:00
 series = ["新加坡日常"]
 categories = ['日常']

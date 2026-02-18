@@ -1,7 +1,6 @@
 +++
 title = '要 coding 旳工作'
 date = 2021-12-21T01:18:24+08:00
-draft = false
 lastmod = 2021-12-21T01:18:24+08:00
 categories = ['閒聊']
 tags = ['批兔']

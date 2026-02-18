@@ -1,7 +1,6 @@
 +++
 title = '科學方法問題 (1)'
 date = 2018-12-07T12:15:24+08:00
-draft = false
 lastmod = 2018-12-07T12:15:24+08:00
 categories = ['提問']
 tags = ['批兔']

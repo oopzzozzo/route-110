@@ -1,7 +1,6 @@
 +++
 title = '身高'
 date = 2019-08-18T13:04:22+08:00
-draft = false
 lastmod = 2019-08-18T13:04:22+08:00
 categories = ['閒聊']
 tags = ['批兔']

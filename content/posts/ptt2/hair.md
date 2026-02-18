@@ -1,7 +1,6 @@
 +++
 title = '頭髮'
 date = 2020-03-09T22:27:10+08:00
-draft = false
 lastmod = 2020-03-09T22:27:10+08:00
 categories = ['心得']
 tags = ['批兔']

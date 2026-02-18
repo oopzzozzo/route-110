@@ -1,7 +1,6 @@
 +++
 title = '國中老師'
 date = 2019-07-08T15:25:27+08:00
-draft = false
 lastmod = 2019-07-08T15:25:27+08:00
 categories = ['人物']
 tags = ['批兔']

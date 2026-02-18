@@ -1,7 +1,6 @@
 +++
 title = 'functional'
 date = 2018-08-16T13:44:42+08:00
-draft = false
 lastmod = 2018-08-16T13:44:42+08:00
 categories = ['心得']
 tags = ['批兔']

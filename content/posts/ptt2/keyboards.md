@@ -1,7 +1,6 @@
 +++
 title = '鍵盤'
 date = 2020-08-16T00:50:53+08:00
-draft = false
 lastmod = 2020-08-16T00:50:53+08:00
 categories = ['閒聊']
 tags = ['批兔']

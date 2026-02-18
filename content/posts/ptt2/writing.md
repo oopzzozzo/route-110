@@ -1,7 +1,6 @@
 +++
 title = '寫作'
 date = 2021-04-26T01:53:16+08:00
-draft = false
 lastmod = 2021-04-26T01:53:16+08:00
 categories = ['日常']
 tags = ['批兔']

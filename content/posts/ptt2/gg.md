@@ -1,7 +1,6 @@
 +++
 title = 'GG'
 date = 2022-02-05T23:28:56+08:00
-draft = false
 lastmod = 2022-02-05T23:28:56+08:00
 categories = ['閒聊']
 tags = ['新竹', '批兔']

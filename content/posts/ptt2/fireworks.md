@@ -1,7 +1,6 @@
 +++
 title = '煙火'
 date = 2023-04-06T08:18:53+08:00
-draft = false
 lastmod = 2023-04-06T08:18:53+08:00
 categories = ['閒聊']
 tags = ['星國', '批兔']

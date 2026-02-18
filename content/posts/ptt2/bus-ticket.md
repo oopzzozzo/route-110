@@ -1,7 +1,6 @@
 +++
 title = '車票'
 date = 2019-07-06T02:07:27+08:00
-draft = false
 lastmod = 2019-07-06T02:07:27+08:00
 categories = ['日常']
 tags = ['批兔']

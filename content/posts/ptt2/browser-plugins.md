@@ -1,7 +1,6 @@
 +++
 title = '瀏覽器外掛'
 date = 2022-12-11T20:02:57+08:00
-draft = false
 lastmod = 2022-12-11T20:02:57+08:00
 categories = ['筆記']
 tags = ['軟體', '批兔']

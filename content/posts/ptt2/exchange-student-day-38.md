@@ -2,7 +2,6 @@
 title = '交換 Day38'
 date = 2019-09-22T00:48:33+08:00
 lastmod = 2019-09-22T00:48:33+08:00
-draft = false
 categories = ['日常']
 series = ['交換學生']
 tags = ['批兔']

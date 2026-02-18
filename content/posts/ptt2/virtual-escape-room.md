@@ -1,7 +1,6 @@
 +++
 title = '虛擬密室'
 date = 2020-12-13T02:17:42+08:00
-draft = false
 lastmod = 2020-12-13T02:17:42+08:00
 categories = ['閒聊']
 tags = ['批兔']

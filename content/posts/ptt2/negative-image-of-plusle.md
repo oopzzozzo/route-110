@@ -1,7 +1,6 @@
 +++
 title = '正電拍拍的負片是負電拍拍'
 date = 2024-09-28T15:41:29+08:00
-draft = false
 lastmod = 2024-09-28T15:41:29+08:00
 categories = ['心得']
 tags = ['批兔']

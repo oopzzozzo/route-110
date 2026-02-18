@@ -1,7 +1,6 @@
 +++
 title = '父子'
 date = 2019-10-05T02:17:05+08:00
-draft = false
 lastmod = 2019-10-05T02:17:05+08:00
 categories = ['閒聊']
 tags = ['批兔']

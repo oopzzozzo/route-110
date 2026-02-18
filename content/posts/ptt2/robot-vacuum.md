@@ -1,7 +1,6 @@
 +++
 title = '掃地機器人'
 date = 2024-11-24T17:11:08+08:00
-draft = false
 lastmod = 2024-11-24T17:11:08+08:00
 categories = ['日常']
 tags = ['批兔']

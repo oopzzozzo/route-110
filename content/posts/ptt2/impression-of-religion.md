@@ -1,7 +1,6 @@
 +++
 title = '宗教印象'
 date = 2023-05-27T16:20:44+08:00
-draft = false
 lastmod = 2023-05-27T16:20:44+08:00
 categories = ['閒聊']
 tags = ['星國', '批兔']

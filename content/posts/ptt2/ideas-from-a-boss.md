@@ -1,7 +1,6 @@
 +++
 title = '老闆的諸多怪想法'
 date = 2024-10-06T00:25:57+08:00
-draft = false
 lastmod = 2024-10-06T00:25:57+08:00
 categories = ['閒聊']
 tags = ['批兔']

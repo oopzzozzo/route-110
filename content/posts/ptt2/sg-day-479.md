@@ -1,7 +1,6 @@
 +++
 title = 'SG Day 479 裝電腦'
 date = 2022-07-19T23:42:10+08:00
-draft = false
 lastmod = 2022-07-19T23:42:10+08:00
 series = ["新加坡日常"]
 categories = ['日常']

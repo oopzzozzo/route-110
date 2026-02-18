@@ -1,7 +1,6 @@
 +++
 title = '妹妹'
 date = 2020-10-16T09:03:08+08:00
-draft = false
 lastmod = 2020-10-16T09:03:08+08:00
 categories = ['日常']
 tags = ['批兔']

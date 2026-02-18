@@ -1,7 +1,6 @@
 +++
 title = 'WFO'
 date = 2022-10-15T21:29:03+08:00
-draft = false
 lastmod = 2022-10-15T21:29:03+08:00
 categories = ['上班']
 tags = ['批兔']

@@ -1,7 +1,6 @@
 +++
 title = '星語'
 date = 2022-03-30T23:50:29+08:00
-draft = false
 lastmod = 2022-03-30T23:50:29+08:00
 categories = ['亂講']
 tags = ['星國', '批兔']

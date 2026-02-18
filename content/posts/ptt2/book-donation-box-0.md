@@ -1,7 +1,6 @@
 +++
 title = '公館捐書箱'
 date = 2020-07-20T19:41:43+08:00
-draft = false
 lastmod = 2020-07-20T19:41:43+08:00
 categories = ['轉錄']
 tags = ['批兔']

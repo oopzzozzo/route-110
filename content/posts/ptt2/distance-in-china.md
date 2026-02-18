@@ -1,7 +1,6 @@
 +++
 title = '距離'
 date = 2022-11-19T10:21:12+08:00
-draft = false
 lastmod = 2022-11-19T10:21:12+08:00
 categories = ['閒聊']
 tags = ['星國', '批兔']

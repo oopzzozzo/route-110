@@ -1,7 +1,6 @@
 +++
 title = '隔離 Day 1-3'
 date = 2022-01-02T21:10:10+08:00
-draft = false
 lastmod = 2022-01-02T21:10:10+08:00
 series = ['隔離']
 categories = ['日常']

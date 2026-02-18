@@ -1,7 +1,6 @@
 +++
 title = '閏秒'
 date = 2021-01-02T23:59:36+08:00
-draft = false
 lastmod = 2021-01-02T23:59:36+08:00
 categories = ['心得']
 tags = ['科學', '批兔']

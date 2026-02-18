@@ -1,7 +1,6 @@
 +++
 title = '星語 (3)'
 date = 2022-10-30T16:20:27+08:00
-draft = false
 lastmod = 2022-10-30T16:20:27+08:00
 series = ['星語']
 categories = ['閒聊']

@@ -2,7 +2,6 @@
 title = '解釋'
 date = 2022-07-28T23:42:57+08:00
 lastmod = 2022-07-28T23:42:57+08:00
-draft = false
 categories = ['討論']
 tags = ['批兔']
 +++

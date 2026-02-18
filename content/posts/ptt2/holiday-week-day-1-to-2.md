@@ -1,7 +1,6 @@
 +++
 title = '放假週 Day 1-2'
 date = 2022-09-16T00:00:56+08:00
-draft = false
 lastmod = 2022-09-16T00:00:56+08:00
 categories = ['日常']
 tags = ['新竹', '批兔']

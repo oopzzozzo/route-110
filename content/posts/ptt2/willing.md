@@ -1,7 +1,6 @@
 +++
 title = '願意'
 date = 2025-01-23T17:01:52+08:00
-draft = false
 lastmod = 2025-01-23T17:01:52+08:00
 categories = ['閒聊']
 tags = ['批兔']
