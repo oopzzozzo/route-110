@@ -1,0 +1,30 @@
+{{ with .Site.Params.Author.links }}
+  <div class="flex flex-wrap text-neutral-400 dark:text-neutral-500">
+    {{ range $links := . }}
+      {{ range $name, $url := $links }}
+        {{ if eq $name "email" }}
+          {{/* Entire href attribute as a safe string */}}
+          {{ $encodedEmail := "mailto:&#111;&#111;&#112;&#122;&#122;&#111;&#122;&#122;&#111;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;" }}
+          {{ $href := printf "href=\"%s\"" $encodedEmail }}
+          <a
+            class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+            {{ $href | safeHTMLAttr }}
+            target="_blank"
+            aria-label="{{ $name | title }}"
+            rel="me noopener noreferrer"
+            ><span class="inline-block align-text-bottom">{{ partial "icon.html" $name }}</span></a
+          >
+        {{ else }}
+          <a
+            class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+            href="{{ $url | safeURL }}"
+            target="_blank"
+            aria-label="{{ $name | title }}"
+            rel="me noopener noreferrer"
+            ><span class="inline-block align-text-bottom">{{ partial "icon.html" $name }}</span></a
+          >
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </div>
+{{ end }}

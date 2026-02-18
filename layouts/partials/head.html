@@ -1,0 +1,127 @@
+{{/* Initialise variables */}}
+{{ $enableSearch := .Site.Params.enableSearch | default false }}
+{{ $enableCodeCopy := .Site.Params.enableCodeCopy | default false }}
+{{ $showTableOfContents := .Params.showTableOfContents | default (.Site.Params.article.showTableOfContents | default false) }}
+{{ $author := .Params.author | default .Site.Params.Author.name }}
+{{ $description := .Description | default (.Summary | default .Site.Params.description) }}
+{{ $image := .Params.image | default .Site.Params.Author.image }}
+{{ $title := .Title | default .Site.Title }}
+{{ $baseURL := .Site.BaseURL }}
+{{ $isServer := hugo.IsServer }}
+{{ $lang := .Lang }}
+{{ $tags := .Params.tags }}
+{{ $categories := .Params.categories }}
+{{ $series := .Params.series }}
+{{ $date := .Date.Format "2006-01-02" }}
+{{ $lastmod := .Lastmod.Format "2006-01-02" }}
+
+<head>
+  <meta charset="utf-8" />
+  {{ with .Site.LanguageCode }}
+  <meta http-equiv="content-language" content="{{ . }}" />
+  {{ end }}
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  {{/* Title */}}
+  {{ if .IsHome -}}
+  <title>{{ .Site.Title }}</title>
+  <meta name="title" content="{{ .Site.Title }}" />
+  {{- else -}}
+  <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
+  <meta name="title" content="{{ .Title }} &middot; {{ .Site.Title }}" />
+  {{- end }}
+  {{/* Metadata */}}
+  {{ with $description -}}
+  <meta name="description" content="{{ . }}" />
+  {{- end }}
+  {{ with .Site.Params.keywords -}}
+  <meta name="keywords" content="{{ . }}" />
+  {{- end }}
+  {{ with .Site.Params.Author.name -}}
+  <meta name="author" content="{{ . }}" />
+  {{- end }}
+  {{ with .Site.Params.Author.links -}}
+  {{ range $links := . }}
+  {{ range $name, $url := $links }}
+  {{ if not (findRE "mailto:" $url) }}
+  <link href="{{ $url }}" rel="me" />
+  {{ end }}
+  {{ end }}
+  {{ end }}
+  {{- end }}
+  <link rel="canonical" href="{{ .Permalink }}" />
+  {{/* Icons */}}
+  {{ if templates.Exists "partials/favicons.html" }}
+  {{ partialCached "favicons.html" .Site }}
+  {{ else }}
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}" />
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}" />
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | relURL }}" />
+  <link rel="manifest" href="{{ "site.webmanifest" | relURL }}" />
+  {{ end }}
+  
+  {{/* Styles */}}
+  {{ $assets := newScratch }}
+  {{ $cssScheme := resources.Get (printf "css/schemes/%s.css" (.Site.Params.colorScheme | default "blowfish")) }}
+  {{ if not $cssScheme }}
+    {{ $cssScheme = resources.Get "css/schemes/blowfish.css" }}
+  {{ end }}
+  {{ $assets.Add "css" (slice $cssScheme) }}
+  {{ $cssMain := resources.Get "css/compiled/main.css" }}
+  {{ $assets.Add "css" (slice $cssMain) }}
+  
+  {{ $bundleCSS := $assets.Get "css" | resources.Concat "css/main.bundle.css" | resources.Minify | resources.Fingerprint "sha512" }}
+  <link type="text/css" rel="stylesheet" href="{{ $bundleCSS.RelPermalink }}" integrity="{{ $bundleCSS.Data.Integrity }}" />
+  
+  {{/* Appearance Script */}}
+  {{ $jsAppearance := resources.Get "js/appearance.js" }}
+  {{ $jsAppearance = $jsAppearance | resources.ExecuteAsTemplate "js/appearance.js" . | resources.Minify | resources.Fingerprint "sha512" }}
+  <script type="text/javascript" src="{{ $jsAppearance.RelPermalink }}" integrity="{{ $jsAppearance.Data.Integrity }}"></script>
+
+  {{/* RSS */}}
+  {{ range .AlternativeOutputFormats -}}
+  {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ end -}}
+  {{/* KaTeX */}}
+  {{ if .Site.Params.enableKaTeX | default false }}
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsALpGUMF+LopAnYGTQCpUf8PrOsonOatCqPclL1M47yG2F17noL9sI9G" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js" integrity="sha384-96408kmY307q3J4V778B237XnN5v1e7H0+Dk9A7+8YvN2lD4+v+B7uH7X5v1/2V" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js" integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIig5hGuYMSbzVQ6L8hmsegFuqrDcD7H60X9uN2/" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+  {{ end }}
+  {{/* Schema */}}
+  {{ partial "schema.html" . }}
+  {{/* Vendor */}}
+  {{ partial "vendor.html" . }}
+  {{/* Analytics */}}
+  {{ partial "analytics/main.html" .Site }}
+  {{/* Extend head - eg. for custom analytics scripts, etc. */}}
+  {{ if templates.Exists "partials/extend-head.html" }}
+  {{ partialCached "extend-head.html" .Site }}
+  {{ end }}
+  <meta name="theme-color"/>
+  {{/* Firebase */}}
+  {{ with .Site.Params.firebase }}
+  {{ if isset .Site.Params "firebase" }}
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script>
+
+    const firebaseConfig = {
+      apiKey: {{ .Site.Params.firebase.apiKey }},
+      authDomain: {{ .Site.Params.firebase.apiKey }},
+      projectId: {{ .Site.Params.firebase.projectId }},
+      storageBucket: {{ .Site.Params.firebase.storageBucket }},
+      messagingSenderId: {{ .Site.Params.firebase.messagingSenderId }},
+      appId: {{ .Site.Params.firebase.appId }},
+      measurementId: {{ .Site.Params.firebase.measurementId }}
+    };
+
+    var app = firebase.initializeApp(firebaseConfig);
+    var db = firebase.firestore();
+    var auth = firebase.auth();
+
+  </script>
+  {{ end }}
+  {{ end }}
+</head>
