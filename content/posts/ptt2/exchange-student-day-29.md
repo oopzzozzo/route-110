@@ -1,9 +1,10 @@
 +++
 title = '交換 Day29'
 date = 2019-09-11T13:06:32+08:00
-draft = false
 lastmod = 2019-09-11T13:06:32+08:00
+draft = false
 categories = ['日常']
+series = ['交換學生']
 tags = ['批兔']
 +++
 ### 寶可夢

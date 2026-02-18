@@ -1,10 +1,10 @@
 +++
 title = '連分數'
 date = 2020-05-16T00:48:22+08:00
-draft = false
 lastmod = 2020-05-16T00:48:22+08:00
+draft = false
 categories = ['筆記']
-tags = ['批兔']
+tags = ['數學', '批兔']
 +++
 我今天一如往常很認真去教室上課。聽到：<br>
 <br>

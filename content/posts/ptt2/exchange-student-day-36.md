@@ -1,9 +1,10 @@
 +++
 title = '交換 Day36'
 date = 2019-09-20T10:25:03+08:00
-draft = false
 lastmod = 2019-09-20T10:25:03+08:00
+draft = false
 categories = ['日常']
+series = ['交換學生']
 tags = ['批兔']
 +++
 ### 科系博覽會

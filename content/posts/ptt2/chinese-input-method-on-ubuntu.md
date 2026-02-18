@@ -1,10 +1,10 @@
 +++
 title = 'Ubuntu 上的中文輸入法'
 date = 2021-02-14T23:21:05+08:00
-draft = false
 lastmod = 2021-02-14T23:21:05+08:00
+draft = false
 categories = ['筆記']
-tags = ['批兔']
+tags = ['軟體', '批兔']
 +++
 裝中文輸入法大概是所有中文使用者換到 linux 系統時，首先要面對的問題。<br>
 而我至今還搞不定。<br>

@@ -1,9 +1,10 @@
 +++
 title = '交換 Day33'
 date = 2019-09-15T14:18:05+08:00
-draft = false
 lastmod = 2019-09-15T14:18:05+08:00
+draft = false
 categories = ['日常']
+series = ['交換學生']
 tags = ['批兔']
 +++
 今天台灣人們約下午烤肉，我想說早點起來在市區晃晃。

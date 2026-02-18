@@ -1,7 +1,9 @@
 +++
 title = '設定 DNS'
 date = 2025-03-03T00:06:53+08:00
+lastmod = 2025-11-25T23:07:17+08:00
 series = ['架設部落格']
+tags = ['軟體']
 draft = false
 +++
 
