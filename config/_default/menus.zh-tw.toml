@@ -38,6 +38,11 @@
   weight = 15
 
 [[main]]
+  name = "互動"
+  pageRef = "interactive"
+  weight = 15
+
+[[main]]
   name = "分類"
   pageRef = "categories"
   weight = 20

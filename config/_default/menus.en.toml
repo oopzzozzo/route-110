@@ -37,6 +37,11 @@
   weight = 15
 
 [[main]]
+  name = "Interactive"
+  pageRef = "interactive"
+  weight = 15
+
+[[main]]
   name = "Labels"
   pageRef = "categories"
   weight = 20
