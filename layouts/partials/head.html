@@ -78,6 +78,19 @@
   {{ $jsAppearance = $jsAppearance | resources.ExecuteAsTemplate "js/appearance.js" . | resources.Minify | resources.Fingerprint "sha512" }}
   <script type="text/javascript" src="{{ $jsAppearance.RelPermalink }}" integrity="{{ $jsAppearance.Data.Integrity }}"></script>
 
+  {{/* Search */}}
+  {{ if $enableSearch }}
+  {{ $jsFuse := resources.Get "lib/fuse/fuse.min.js" }}
+  {{ $jsSearch := resources.Get "js/search.js" }}
+  {{ $jsSearchBundle := slice $jsFuse $jsSearch | resources.Concat "js/search.bundle.js" | resources.Minify | resources.Fingerprint "sha512" }}
+  <script defer type="text/javascript" src="{{ $jsSearchBundle.RelPermalink }}" integrity="{{ $jsSearchBundle.Data.Integrity }}"></script>
+  {{ end }}
+  {{/* Code Copy */}}
+  {{ if $enableCodeCopy }}
+  {{ $jsCode := resources.Get "js/code.js" }}
+  {{ $jsCode = $jsCode | resources.Minify | resources.Fingerprint "sha512" }}
+  <script defer type="text/javascript" src="{{ $jsCode.RelPermalink }}" integrity="{{ $jsCode.Data.Integrity }}"></script>
+  {{ end }}
   {{/* RSS */}}
   {{ range .AlternativeOutputFormats -}}
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
