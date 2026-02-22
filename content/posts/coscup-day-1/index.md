@@ -85,7 +85,7 @@ Grafana Labs 的贊助演說，主張
 - How to deal with ISO3166: Taiwan, Province of China
     - Replacement standards
     - Prioritize Common known names in ISO3166 over standard names in ISO3166
-- Hackmd 裡 `{big text|the ruby}` -> `<ruby> 內文<rt>注解<rt> <ruby>` -> <ruby> 內文<rt>注解<rt> <ruby>
+- Hackmd 裡 `{內文|注解}` -> `<ruby> 內文<rt>注解<rt> <ruby>` -> <ruby> 內文<rt>注解<rt> <ruby>
 
 ### 自旋鎖大進化：為你的多核電腦量身打造高效同步術！
 - 主講感覺是練講了三十遍的研究生
