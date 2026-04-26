@@ -1,0 +1,21 @@
+{{/* Size hint syntax: title="=<width>x<height>" — either part optional.
+     Split on x-before-digit so "px" units are never confused with the separator.
+     Examples: "=60%"  "=400px"  "=x50vh"  "=500pxx200px" */}}
+{{ $style := "" }}
+{{ if strings.HasPrefix .Title "=" }}
+  {{ $size   := strings.TrimPrefix "=" .Title }}
+  {{ $parts  := split (replaceRE `x(\d)` ",$1" $size) "," }}
+  {{ $w      := index $parts 0 }}
+  {{ $h      := "" }}
+  {{ if gt (len $parts) 1 }}{{ $h = index $parts 1 }}{{ end }}
+  {{ if $w }}{{ $style = printf "%smax-width:%s;" $style $w }}{{ end }}
+  {{ if $h }}{{ $style = printf "%smax-height:%s;" $style $h }}{{ end }}
+  {{ if $style }}{{ $style = printf "%sdisplay:block;margin:0 auto;" $style }}{{ end }}
+{{ end }}
+
+{{ if strings.HasSuffix (.Destination | lower) ".svg" }}
+  {{ $r := .Page.Resources.GetMatch .Destination }}
+  {{ if $r }}{{ $r.Content | strings.ReplaceRE `color-scheme:\s*[^;"]+;?` "" | safeHTML }}{{ end }}
+{{ else }}
+  <img src="{{ .Destination }}" alt="{{ .Text }}"{{ with $style }} style="{{ . | safeCSS }}"{{ end }}>
+{{ end }}

@@ -1,0 +1,24 @@
+:root {
+  --d-text: rgb(0, 0, 0);
+  --d-gray: rgb(102, 102, 102);
+  --d-blue-stroke: rgb(108, 142, 191);
+  --d-green-stroke: rgb(130, 179, 102);
+  --d-red-stroke: rgb(184, 84, 80);
+  --d-green-fill: rgb(213, 232, 212);
+  --d-yellow-stroke: rgb(214, 182, 86);
+  --d-blue-fill: rgb(218, 232, 252);
+  --d-red-fill: rgb(248, 206, 204);
+  --d-yellow-fill: rgb(255, 242, 204);
+}
+html.dark {
+  --d-text: rgb(255, 255, 255);
+  --d-gray: rgb(149, 149, 149);
+  --d-blue-stroke: rgb(92, 121, 163);
+  --d-green-stroke: rgb(68, 110, 44);
+  --d-red-stroke: rgb(215, 129, 126);
+  --d-green-fill: rgb(31, 47, 30);
+  --d-yellow-stroke: rgb(109, 81, 0);
+  --d-blue-fill: rgb(29, 41, 59);
+  --d-red-fill: rgb(81, 45, 43);
+  --d-yellow-fill: rgb(40, 29, 0);
+}
