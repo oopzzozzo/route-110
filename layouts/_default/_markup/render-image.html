@@ -17,5 +17,7 @@
   {{ $r := .Page.Resources.GetMatch .Destination }}
   {{ if $r }}{{ $r.Content | strings.ReplaceRE `color-scheme:\s*[^;"]+;?` "" | safeHTML }}{{ end }}
 {{ else }}
-  <img src="{{ .Destination }}" alt="{{ .Text }}"{{ with $style }} style="{{ . | safeCSS }}"{{ end }}>
+  {{ $src := .Destination }}
+  {{ with .Page.Resources.GetMatch .Destination }}{{ $src = .RelPermalink }}{{ end }}
+  <img src="{{ $src }}" alt="{{ .Text }}"{{ with $style }} style="{{ . | safeCSS }}"{{ end }}>
 {{ end }}
