@@ -95,6 +95,16 @@
   {{ range .AlternativeOutputFormats -}}
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
   {{ end -}}
+  {{/* hreflang */}}
+  {{ if .IsTranslated -}}
+  {{ range .AllTranslations -}}
+  <link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />
+  {{ end -}}
+  {{ $defaultPage := index (sort .AllTranslations "Language.Weight") 0 -}}
+  {{ with $defaultPage -}}
+  <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
+  {{ end -}}
+  {{ end -}}
   {{/* KaTeX */}}
   {{ if .Site.Params.enableKaTeX | default false }}
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsALpGUMF+LopAnYGTQCpUf8PrOsonOatCqPclL1M47yG2F17noL9sI9G" crossorigin="anonymous">
