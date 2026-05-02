@@ -17,6 +17,8 @@ replyByEmail = false
 # mainSections = ["section1", "section2"]
 # robots = ""
 
+images = ["img/plusle-and-minun.jpg"]
+
 disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200

@@ -12,7 +12,7 @@ title = "１１０號道路"
   dateFormat = "2006年01月02日"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "１１０號道路"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]

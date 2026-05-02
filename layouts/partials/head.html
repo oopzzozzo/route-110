@@ -101,6 +101,9 @@
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js" integrity="sha384-96408kmY307q3J4V778B237XnN5v1e7H0+Dk9A7+8YvN2lD4+v+B7uH7X5v1/2V" crossorigin="anonymous"></script>
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js" integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIig5hGuYMSbzVQ6L8hmsegFuqrDcD7H60X9uN2/" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
   {{ end }}
+  {{/* Social */}}
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
   {{/* Schema */}}
   {{ partial "schema.html" . }}
   {{/* Vendor */}}
