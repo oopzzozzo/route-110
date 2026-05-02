@@ -3,7 +3,8 @@
 {{ $enableCodeCopy := .Site.Params.enableCodeCopy | default false }}
 {{ $showTableOfContents := .Params.showTableOfContents | default (.Site.Params.article.showTableOfContents | default false) }}
 {{ $author := .Params.author | default .Site.Params.Author.name }}
-{{ $description := .Description | default (.Summary | default .Site.Params.description) }}
+{{- $plain := .Plain | replaceRE `\s*#\s*` " " | replaceRE `\s+` " " | strings.TrimSpace -}}
+{{ $description := .Description | default (($plain | truncate 155 "...") | default .Site.Params.description) }}
 {{ $image := .Params.image | default .Site.Params.Author.image }}
 {{ $title := .Title | default .Site.Title }}
 {{ $baseURL := .Site.BaseURL }}
