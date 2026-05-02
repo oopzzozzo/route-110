@@ -161,7 +161,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   constrainItemsWidth = false
 
 [sitemap]
-  excludedKinds = ["taxonomy", "term"]
+  excludedKinds = []
 
 [taxonomy]
   showTermCount = true
