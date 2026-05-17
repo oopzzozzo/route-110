@@ -8,8 +8,8 @@
   {{ $w      := index $parts 0 }}
   {{ $h      := "" }}
   {{ if gt (len $parts) 1 }}{{ $h = index $parts 1 }}{{ end }}
-  {{ if $w }}{{ $style = printf "%smax-width:%s;" $style $w }}{{ end }}
-  {{ if $h }}{{ $style = printf "%smax-height:%s;" $style $h }}{{ end }}
+  {{ if $w }}{{ $style = printf "%smax-width:%s;height:auto;" $style $w }}{{ end }}
+  {{ if $h }}{{ $style = printf "%smax-height:%s;width:auto;" $style $h }}{{ end }}
   {{ if $style }}{{ $style = printf "%sdisplay:block;margin:0 auto;" $style }}{{ end }}
 {{ end }}
 
@@ -17,7 +17,22 @@
   {{ $r := .Page.Resources.GetMatch .Destination }}
   {{ if $r }}{{ $r.Content | strings.ReplaceRE `color-scheme:\s*[^;"]+;?` "" | safeHTML }}{{ end }}
 {{ else }}
-  {{ $src := .Destination }}
-  {{ with .Page.Resources.GetMatch .Destination }}{{ $src = .RelPermalink }}{{ end }}
-  <img src="{{ $src }}" alt="{{ .Text }}"{{ with $style }} style="{{ . | safeCSS }}"{{ end }}>
+  {{ $orig := .Page.Resources.GetMatch .Destination }}
+  {{ if and (not $orig) (strings.HasPrefix .Destination "/") }}
+    {{ $orig = resources.Get (strings.TrimPrefix "/" .Destination) }}
+  {{ end }}
+  {{ if $orig }}
+    {{ $img := $orig }}
+    {{ if gt $orig.Width 1200 }}{{ $img = $orig.Resize "1200x q82" }}{{ end }}
+    {{ $tag := printf `<img src="%s" alt="%s" width="%d" height="%d" loading="lazy"%s>`
+        $img.RelPermalink .Text $img.Width $img.Height
+        (cond (ne $style "") (printf ` style="%s"` $style) "") }}
+    {{ if or (ne $img.RelPermalink $orig.RelPermalink) (ne $style "") }}
+      <a href="{{ $orig.RelPermalink }}">{{ $tag | safeHTML }}</a>
+    {{ else }}
+      {{ $tag | safeHTML }}
+    {{ end }}
+  {{ else }}
+    <img src="{{ .Destination }}" alt="{{ .Text }}" loading="lazy"{{ with $style }} style="{{ . | safeCSS }}"{{ end }}>
+  {{ end }}
 {{ end }}
