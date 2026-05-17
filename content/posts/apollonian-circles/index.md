@@ -19,7 +19,7 @@ tags = ['數學']
 故 ∠KPR = 90°；P 在直徑 KR 的圓周上
 ](https://lyingheart6174.pixnet.net/blog/post/5122618)
 
-![地月等視角之圓形軌道圖](/images/apollonion-circle_spaceship-trajectory.jpg)
+![地月等視角之圓形軌道圖](apollonion-circle_spaceship-trajectory.jpg)
 
 這對幾何能力不佳的我來說不太直覺。應該有什麼投影方式，可以說「以軌道為鏡，月球的像和地球重疊」。且「物、鏡、像三者組合中，知其二就能決定第三者」。
 

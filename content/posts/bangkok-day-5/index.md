@@ -17,7 +17,7 @@ tags = ['泰國']
 ### 手搖飲料販賣機
 機場有一臺綜合飲料販賣機。可以點冰拿鐵、草莓汽水、泰式奶茶等等……點完機器大概會花一分多鐘製作，等待時下一位客人就可以點餐。我們都說就像是 [Opass 手搖飲料機器](https://www.opasschang.com/docs/the-story-of-auto-beverage-machine-1) 的完成體，有泰、英文介面，可以電支或現金。
 
-<img src="/photos/bangkok-vending-machine.jpg" alt="手搖飲料販賣機" style="max-height: 50vh; width: auto; display: block; margin: 0 auto;" />
+![手搖飲料販賣機](bangkok-vending-machine.jpg "=x50vh")
 
 我們看沒人用，就買一杯拿鐵，選購時後面就開始多人排隊。從主頁面的觸控螢幕選拿鐵後，就會進入拿鐵頁面 。拿鐵頁面可以調冰塊甜度，選完頁面上方的品項名稱就會從 latte 變成 ICED latte 或是 HOT latte。點完沒事我們就想，該來學一下泰文了，看泰文是叫拿鐵冰還是冰拿鐵。
 

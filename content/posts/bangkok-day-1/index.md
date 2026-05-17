@@ -36,7 +36,7 @@ tags = ['泰國']
 銀行顏色花花緑緑的，如粉紅色、亮綠色、深綠色等色，皆為台灣銀行所罕見。
 
 後幾天看到的提款機亭
-<img src="/photos/bangkok-atm-booth.jpg" alt="提款機亭" style="max-height: 50vh; width: auto; display: block; margin: 0 auto;" />
+![提款機亭](bangkok-atm-booth.jpg "=x50vh")
 
 #### 咖啡店
 同學點了分層咖啡，小小一杯，價格好像不比台灣便宜。

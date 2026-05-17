@@ -26,7 +26,7 @@ tags = ['泰國']
 
 ### 芭蕉園
 車子經過芭蕉園，樹間都有淹水。
-<img src="/photos/bangkok-banana-plantation-flooding.jpg" alt="芭蕉園淹水" style="max-height: 50vh; width: auto; display: block; margin: 0 auto;" />
+![芭蕉園淹水](bangkok-banana-plantation-flooding.jpg "=x50vh")
 
 ### 佛寺
 大雄寶殿供佛，外面分別供耆婆、鄭王和小鬼。

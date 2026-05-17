@@ -49,7 +49,7 @@ git worktree add team-repo-pj1-serviceA
 ### 原理
 一般 `git clone` 下來的資料夾，裡面會有一個隱藏的 `.git` 存所有的歷史資料。
 而 `git worktree add` 造出的的資料夾，其 `.git` 會 softlink 到本尊資料夾的 `.git`。
-![.git檔說明圖](/images/git-worktree.png)
+![.git檔說明圖](git-worktree.png)
 註：事實上不完全是一個 softlink，而是一個普檔案裡面放連結，整個 link 的邏輯還是刻在 git 指令裡。
 
 ### 各種閒聊
