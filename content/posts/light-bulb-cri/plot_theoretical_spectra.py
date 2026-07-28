@@ -193,6 +193,45 @@ def normalise_to(wl_nm: np.ndarray, spec: np.ndarray, target: float) -> np.ndarr
     return spec * (target / integral) if integral > 0 else spec
 
 
+def render_panel(
+    ax,
+    wl: np.ndarray,
+    title: str,
+    spec: np.ndarray,
+    color: str,
+    overlay_planck: bool,
+    planck_spec: np.ndarray,
+    planck_int: float,
+    y_cap: float,
+) -> None:
+    if overlay_planck:
+        ax.plot(wl, planck_spec, color="gray", alpha=0.55, linewidth=1.4,
+                linestyle="--", label="Planck 4500 K")
+        plotted = normalise_to(wl, spec, planck_int)
+    else:
+        plotted = spec
+
+    ax.plot(wl, plotted, color=color, linewidth=2.0,
+            label=title.split("\n")[0])
+
+    ax.set_xlim(380, 780)
+    ax.set_ylim(0, y_cap)
+    ax.set_xlabel("Wavelength (nm)")
+    ax.set_ylabel("Spectral radiance  (a.u.)")
+    ax.set_title(title, fontsize=11)
+    ax.grid(True, alpha=0.3)
+    ax.legend(fontsize=9, loc="upper right")
+
+
+# Panels to also emit as standalone PNGs for embedding in the post.
+# Keyed by the panel's title (first argument in `panels`).
+INDIVIDUAL_EXPORTS: dict[str, str] = {
+    "Low-pressure sodium\ntwo D-lines at 589.0 / 589.6 nm": "low_pressure_sodium.png",
+    "RGB LED\nGaussians at 450 / 530 / 615 nm": "rgb_led.png",
+    "Iron-rich soda-lime glass\nthick green bottle glass (Fe²⁺ + Fe³⁺)": "soda_lime_glass.png",
+}
+
+
 def main() -> None:
     wl = np.linspace(380, 780, 5000)
     planck_spec = planck(wl)
@@ -217,24 +256,9 @@ def main() -> None:
 
     y_cap = planck_peak_visible * 2.5
 
-    for ax, (title, spec, color, overlay_planck) in zip(axes, panels):
-        if overlay_planck:
-            ax.plot(wl, planck_spec, color="gray", alpha=0.55, linewidth=1.4,
-                    linestyle="--", label="Planck 4500 K")
-            plotted = normalise_to(wl, spec, planck_int)
-        else:
-            plotted = spec
-
-        ax.plot(wl, plotted, color=color, linewidth=2.0,
-                label=title.split("\n")[0])
-
-        ax.set_xlim(380, 780)
-        ax.set_ylim(0, y_cap)
-        ax.set_xlabel("Wavelength (nm)")
-        ax.set_ylabel("Spectral radiance  (a.u.)")
-        ax.set_title(title, fontsize=11)
-        ax.grid(True, alpha=0.3)
-        ax.legend(fontsize=9, loc="upper right")
+    for ax, panel in zip(axes, panels):
+        render_panel(ax, wl, *panel, planck_spec=planck_spec,
+                     planck_int=planck_int, y_cap=y_cap)
 
     fig.suptitle(
         "Theoretical illuminant spectra vs. 4500 K Planck blackbody\n"
@@ -245,6 +269,19 @@ def main() -> None:
     fig.tight_layout()
     fig.savefig("theoretical_spectra.png", dpi=150)
     print("wrote theoretical_spectra.png")
+
+    for panel in panels:
+        title = panel[0]
+        out = INDIVIDUAL_EXPORTS.get(title)
+        if out is None:
+            continue
+        fig1, ax1 = plt.subplots(figsize=(8, 5))
+        render_panel(ax1, wl, *panel, planck_spec=planck_spec,
+                     planck_int=planck_int, y_cap=y_cap)
+        fig1.tight_layout()
+        fig1.savefig(out, dpi=150)
+        plt.close(fig1)
+        print(f"wrote {out}")
 
 
 if __name__ == "__main__":
