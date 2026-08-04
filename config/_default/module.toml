@@ -1,3 +1,10 @@
 [[imports]]
 disable = false
 path = "github.com/nunocoracao/blowfish/v2"
+
+# mount content/ explicitly so python bytecode from analysis scripts inside
+# page bundles is not copied into public/ and published
+[[mounts]]
+source = "content"
+target = "content"
+excludeFiles = ["**/__pycache__/**"]

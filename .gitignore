@@ -5,3 +5,7 @@ resources/
 
 # local Claude config
 .claude/
+
+# python bytecode from content scripts (gets copied into public/ and published)
+__pycache__/
+*.pyc
